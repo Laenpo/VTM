@@ -71,7 +71,7 @@ cd VTM
 
 ### 2. Download Frameworks
 
-You need pre-built frameworks for Whisper.cpp and ONNX Runtime.
+The project requires two compiled `.xcframework` bundles to build *(these are build dependencies, not the models users download in-app)*.
 
 **Option A: Download pre-built** (recommended)
 
@@ -106,7 +106,9 @@ pod install
 open VTM.xcworkspace
 ```
 
-Select the `VTM` scheme, choose a real device (ML Kit does not support simulator), and build.
+Select the `VTM` scheme, choose a **real device** (ML Kit does not support simulator), and build.
+
+> 💡 **End users** download speech/translation models through the app UI (Settings → Model Management). No manual setup.
 
 ---
 
