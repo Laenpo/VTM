@@ -1,0 +1,81 @@
+name: VTM
+configs:
+  debug:
+    settings:
+      INFOPLIST_KEY_UIRequiresFullScreen: true
+      SWIFT_VERSION: "5.9"
+  release:
+    settings:
+      INFOPLIST_KEY_UIRequiresFullScreen: true
+      SWIFT_VERSION: "5.9"
+targets:
+  VTM:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.4"
+    sources:
+      - path: VTM
+      - path: Services
+    excludes:
+      - "**/.DS_Store"
+    settings:
+      INFOPLIST_FILE: Info.plist
+      PRODUCT_BUNDLE_IDENTIFIER: com.vtm.VTM
+      TARGETED_DEVICE_FAMILY: "1,2"
+      INFOPLIST_KEY_NSMicrophoneUsageDescription: "VTM 需要访问麦克风以进行语音翻译"
+      INFOPLIST_KEY_NSSpeechRecognitionUsageDescription: "VTM 需要语音识别权限以进行实时翻译"
+      SWIFT_OBJC_BRIDGING_HEADER: VTM-Bridging-Header.h
+      CLANG_CXX_LANGUAGE_STANDARD: gnu++17
+      HEADER_SEARCH_PATHS:
+        - "$(PROJECT_DIR)/Services/ONNXRuntime"
+        - "$(PROJECT_DIR)/Services/ONNXRuntime/include"
+      FRAMEWORK_SEARCH_PATHS:
+        - "$(inherited)"
+        - "$(PROJECT_DIR)/Frameworks"
+      OTHER_LDFLAGS:
+        - "$(inherited)"
+        - "-lc++"
+        - "-ObjC"
+        - "-framework"
+        - "whisper"
+        - "-framework"
+        - "onnxruntime"
+      LD_RUNPATH_SEARCH_PATHS:
+        - "$(inherited)"
+        - "@executable_path/Frameworks"
+    dependencies:
+      - sdk: Foundation.framework
+      - sdk: SwiftUI.framework
+      - sdk: AVFoundation.framework
+      - sdk: Speech.framework
+      - sdk: CoreML.framework
+      - sdk: Combine.framework
+      - sdk: Accelerate.framework
+      - sdk: NaturalLanguage.framework
+    preBuildScripts:
+      - name: "Embed Whisper Framework"
+        script: |
+          # whisper 是动态库，需嵌入 App Bundle
+          # onnxruntime 是静态库 (.a)，编译时已链接，无需嵌入
+          FRAMEWORKS_DST="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
+          mkdir -p "${FRAMEWORKS_DST}"
+          if [ ! -d "${FRAMEWORKS_DST}/whisper.framework" ]; then
+            cp -R "${PROJECT_DIR}/Frameworks/ios-arm64_x86_64-simulator/whisper.framework" "${FRAMEWORKS_DST}/" 2>/dev/null || true
+          fi
+        basedOnDependencyAnalysis: false
+  VTMTests:
+    type: bundle.unit-test
+    platform: iOS
+    deploymentTarget: "17.4"
+    sources:
+      - path: Tests/VTMTests
+    dependencies:
+      - target: VTM
+  VTMUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    deploymentTarget: "17.4"
+    sources:
+      - path: Tests/VTMUITests
+    dependencies:
+      - target: VTM

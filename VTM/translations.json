@@ -1,0 +1,2417 @@
+{
+  "200 种语言间互译": {
+    "zh-Hans": "200 种语言间互译",
+    "en": "Translation between 200 languages",
+    "ja": "200言語間の相互翻訳",
+    "ko": "200개 언어 간 상호 번역",
+    "fr": "Traduction entre 200 langues"
+  },
+  "200 语言离线翻译后备引擎": {
+    "zh-Hans": "200 语言离线翻译后备引擎",
+    "en": "200-language Offline Backup Engine",
+    "ja": "200言語オフライン翻訳バックアップ",
+    "ko": "200개 언어 오フライン 백업",
+    "fr": "Moteur secours 200 langues"
+  },
+  "437-616-3666": {
+    "zh-Hans": "437-616-3666",
+    "en": "437-616-3666",
+    "ja": "437-616-3666",
+    "ko": "437-616-3666",
+    "fr": "437-616-3666"
+  },
+  "60+ 语言，含中英日韩等": {
+    "zh-Hans": "60+ 语言，含中英日韩等",
+    "en": "60+ languages incl. CN, EN, JP, KR, etc.",
+    "ja": "60言語以上、中日英韓含む",
+    "ko": "60개 이상 언어, 중영일한 포함",
+    "fr": "60+ langues dont zh/en/ja/ko"
+  },
+  "Google ML Kit": {
+    "zh-Hans": "Google ML Kit",
+    "en": "Google ML Kit",
+    "ja": "Google ML Kit",
+    "ko": "Google ML Kit",
+    "fr": "Google ML Kit"
+  },
+  "Google 设备端翻译 SDK，利用设备算力进行本地翻译，速度极快且隐私安全。": {
+    "zh-Hans": "Google 设备端翻译 SDK，利用设备算力进行本地翻译，速度极快且隐私安全。",
+    "en": "Google on-device translation SDK. Fast, private, and secure on-device translation.",
+    "ja": "Googleデバイス上翻訳SDK。端末の計算能力でローカル翻訳、高速かつプライバシー保護。",
+    "ko": "Google 기기 내 번역 SDK. 기기 연산 능력으로 로컬 번역, 빠르고 개인정보 보호.",
+    "fr": "SDK Google sur appareil. Traduction locale rapide et respectueuse de la vie privée."
+  },
+  "MIT 开源": {
+    "zh-Hans": "MIT 开源",
+    "en": "MIT Open Source",
+    "ja": "MIT オープンソース",
+    "ko": "MIT 오픈소스",
+    "fr": "MIT Open Source"
+  },
+  "ML Kit": {
+    "zh-Hans": "ML Kit",
+    "en": "ML Kit",
+    "ja": "ML Kit",
+    "ko": "ML Kit",
+    "fr": "ML Kit"
+  },
+  "ML Kit (待下载)": {
+    "zh-Hans": "ML Kit (待下载)",
+    "en": "ML Kit (Pending Download)",
+    "ja": "ML Kit (ダウンロード待ち)",
+    "ko": "ML Kit (다운로드 대기)",
+    "fr": "ML Kit (en attente)"
+  },
+  "ML Kit · 下载中": {
+    "zh-Hans": "ML Kit · 下载中",
+    "en": "ML Kit · Downloading",
+    "ja": "ML Kit · ダウンロード中",
+    "ko": "ML Kit · 다운로드 중",
+    "fr": "ML Kit · téléchargement"
+  },
+  "ML Kit 详情": {
+    "zh-Hans": "ML Kit 详情",
+    "en": "ML Kit Details",
+    "ja": "ML Kit 詳細",
+    "ko": "ML Kit 상세",
+    "fr": "Détails ML Kit"
+  },
+  "Meta AI 的多语言翻译模型，支持 200 种语言。VTM 使用 ONNX Runtime 进行设备端推理。": {
+    "zh-Hans": "Meta AI 的多语言翻译模型，支持 200 种语言。VTM 使用 ONNX Runtime 进行设备端推理。",
+    "en": "Meta AI multilingual translation model supporting 200 languages. VTM uses ONNX Runtime for on-device inference.",
+    "ja": "Meta AIの多言語翻訳モデル。200言語対応。VTMはONNX Runtimeでデバイス上推論を実行。",
+    "ko": "Meta AI의 다국어 번역 모델. 200개 언어 지원. VTM은 ONNX Runtime으로 기기 내 추론 실행.",
+    "fr": "Modèle multilingue Meta AI, 200 langues. VTM utilise ONNX Runtime pour l'inférence locale."
+  },
+  "Metal / Core ML": {
+    "zh-Hans": "Metal / Core ML",
+    "en": "Metal / Core ML",
+    "ja": "Metal / Core ML",
+    "ko": "Metal / Core ML",
+    "fr": "Metal / Core ML"
+  },
+  "NLLB · 加载中": {
+    "zh-Hans": "NLLB · 加载中",
+    "en": "NLLB · Loading",
+    "ja": "NLLB · 読込中",
+    "ko": "NLLB · 로드 중",
+    "fr": "NLLB · chargement"
+  },
+  "NLLB · 备用": {
+    "zh-Hans": "NLLB · 备用",
+    "en": "NLLB · Standby",
+    "ja": "NLLB · バックアップ",
+    "ko": "NLLB · 백업",
+    "fr": "NLLB · secours"
+  },
+  "NLLB · 未加载": {
+    "zh-Hans": "NLLB · 未加载",
+    "en": "NLLB · Not Loaded",
+    "ja": "NLLB · 未読込",
+    "ko": "NLLB · 미로드",
+    "fr": "NLLB · non chargé"
+  },
+  "NLLB 后备": {
+    "zh-Hans": "NLLB 后备",
+    "en": "NLLB Backup",
+    "ja": "NLLB バックアップ",
+    "ko": "NLLB 백업",
+    "fr": "NLLB secours"
+  },
+  "NLLB-200": {
+    "zh-Hans": "NLLB-200",
+    "en": "NLLB-200",
+    "ja": "NLLB-200",
+    "ko": "NLLB-200",
+    "fr": "NLLB-200"
+  },
+  "NLLB-200 仅当 ML Kit 不支持时按需加载": {
+    "zh-Hans": "NLLB-200 仅当 ML Kit 不支持时按需加载",
+    "en": "NLLB-200 loaded on-demand when ML Kit unavailable",
+    "ja": "ML Kit非対応時のみ読込",
+    "ko": "ML Kit 미지원 시에만 로드",
+    "fr": "Chargé si ML Kit non dispo"
+  },
+  "NLLB-200 的多语言翻译模型，支持 200 种语言。使用 ONNX Runtime 进行设备端推理。": {
+    "zh-Hans": "NLLB-200 的多语言翻译模型，支持 200 种语言。使用 ONNX Runtime 进行设备端推理。",
+    "en": "NLLB-200 multilingual model supporting 200 languages. ONNX Runtime for on-device inference.",
+    "ja": "NLLB-200多言語翻訳モデル。200言語対応。ONNX Runtimeでデバイス上推論。",
+    "ko": "NLLB-200 다국어 번역 모델. 200개 언어 지원. ONNX Runtime으로 기기 내 추론.",
+    "fr": "Modèle NLLB-200, 200 langues. Inférence locale avec ONNX Runtime."
+  },
+  "NLLB-200 详情": {
+    "zh-Hans": "NLLB-200 详情",
+    "en": "NLLB-200 Details",
+    "ja": "NLLB-200 詳細",
+    "ko": "NLLB-200 상세",
+    "fr": "Détails NLLB-200"
+  },
+  "OpenAI 开源的高精度语音识别模型，由 ggerganov/whisper.cpp 移植到 C/C++。": {
+    "zh-Hans": "OpenAI 开源的高精度语音识别模型，由 ggerganov/whisper.cpp 移植到 C/C++。",
+    "en": "OpenAI open-source high-accuracy speech recognition model, ported to C/C++ by ggerganov/whisper.cpp.",
+    "ja": "OpenAIのオープンソース高精度音声認識モデル。ggerganov/whisper.cppによりC/C++に移植。",
+    "ko": "OpenAI의 오픈소스 고정밀 음성 인식 모델. ggerganov/whisper.cpp에 의해 C/C++로 이식됨.",
+    "fr": "Modèle open source OpenAI haute précision, porté en C/C++ par ggerganov/whisper.cpp."
+  },
+  "Siri 快捷指令": {
+    "zh-Hans": "Siri 快捷指令",
+    "en": "Siri Shortcuts",
+    "ja": "Siriショートカット",
+    "ko": "Siri 단축어",
+    "fr": "Raccourcis Siri"
+  },
+  "Siri 集成": {
+    "zh-Hans": "Siri 集成",
+    "en": "Siri Integration",
+    "ja": "Siri統合",
+    "ko": "Siri 통합",
+    "fr": "Intégration Siri"
+  },
+  "VTM — 离线语音翻译 · SwiftUI + whisper.cpp": {
+    "zh-Hans": "VTM — 离线语音翻译 · SwiftUI + whisper.cpp",
+    "en": "VTM — Offline Voice Translation · SwiftUI + whisper.cpp",
+    "ja": "VTM — オフライン音声翻訳 · SwiftUI + whisper.cpp",
+    "ko": "VTM — 오フライン 음성 번역 · SwiftUI + whisper.cpp",
+    "fr": "VTM — Traduction vocale hors ligne · SwiftUI + whisper.cpp"
+  },
+  "VTM 是一款完全离线的语音翻译工具，支持实时语音识别、多语言翻译和语音合成。无需网络连接，所有数据处理均在本地完成，确保隐私安全。": {
+    "zh-Hans": "VTM 是一款完全离线的语音翻译工具，支持实时语音识别、多语言翻译和语音合成。无需网络连接，所有数据处理均在本地完成，确保隐私安全。",
+    "en": "VTM is a fully offline voice translator supporting real-time speech recognition, multilingual translation, and speech synthesis. All processing is local, ensuring privacy.",
+    "ja": "VTMは完全オフラインの音声翻訳ツールで、リアルタイム音声認識、多言語翻訳、音声合成に対応。ネットワーク不要、全処理ローカルでプライバシー保護。",
+    "ko": "VTM은 완전 오프라인 음성 번역 도구로 실시간 음성 인식, 다국어 번역, 음성 합성 지원. 네트워크 불필요, 모든 처리 로컬, 개인정보 보호.",
+    "fr": "VTM est un traducteur vocal 100% hors ligne : reconnaissance vocale, traduction multilingue, synthèse. Sans réseau, traitement local, confidentialité."
+  },
+  "VTM 是一款语音翻译应用，允许用户通过语音输入进行实时翻译。我们保留随时修改或终止服务的权利，无需事先通知。": {
+    "zh-Hans": "VTM 是一款语音翻译应用，允许用户通过语音输入进行实时翻译。我们保留随时修改或终止服务的权利，无需事先通知。",
+    "en": "VTM is a voice translation app enabling real-time translation via voice input. We reserve the right to modify or discontinue the service at any time without notice.",
+    "ja": "VTMは音声入力によるリアルタイム翻訳を提供するアプリです。当社は事前通知なくサービスを変更または終了する権利を留保します。",
+    "ko": "VTM은 음성 입력으로 실시간 번역을 제공하는 앱입니다. 당사는 사전 통지 없이 서비스를 수정하거나 종료할 권리를 보유합니다.",
+    "fr": "VTM est une application de traduction vocale en temps réel. Nous nous réservons le droit de modifier ou d'interrompre le service sans préavis."
+  },
+  "VTM 语音翻译": {
+    "zh-Hans": "VTM 语音翻译",
+    "en": "VTM Voice Translator",
+    "ja": "VTM 音声翻訳",
+    "ko": "VTM 음성 번역",
+    "fr": "VTM Traduction Vocale"
+  },
+  "VTM 默认翻译引擎": {
+    "zh-Hans": "VTM 默认翻译引擎",
+    "en": "VTM default translation engine",
+    "ja": "VTM デフォルト翻訳エンジン",
+    "ko": "VTM 기본 번역 엔진",
+    "fr": "Moteur VTM par défaut"
+  },
+  "VTM（以下简称\\\"我们\\\"）非常重视您的隐私保护。本隐私政策说明了我们如何收集、使用、存储和保护您的个人信息。使用本应用即表示您同意本政策的条款。": {
+    "zh-Hans": "VTM（以下简称\"我们\"）非常重视您的隐私保护。本隐私政策说明了我们如何收集、使用、存储和保护您的个人信息。使用本应用即表示您同意本政策的条款。",
+    "en": "VTM (\"we\") values your privacy. This policy explains how we collect, use, store, and protect your personal information. By using this app, you agree to this policy.",
+    "ja": "VTM（以下「当社」）はお客様のプライバシーを重視します。本ポリシーは個人情報の収集・使用・保存・保護について説明します。本アプリの使用により本ポリシーに同意したものとみなします。",
+    "ko": "VTM(이하 \"당사\")은 귀하의 개인정보를 소중히 보호합니다. 본 정책은 개인정보 수집, 사용, 저장, 보호에 대해 설명합니다. 본 앱 사용은 본 정책에 동의함을 의미합니다.",
+    "fr": "VTM (ci-après « nous ») protège votre vie privée. Cette politique explique comment nous collectons, utilisons, stockons et protégeons vos informations. En utilisant cette application, vous acceptez cette politique."
+  },
+  "Whisper": {
+    "zh-Hans": "Whisper",
+    "en": "Whisper",
+    "ja": "Whisper",
+    "ko": "Whisper",
+    "fr": "Whisper"
+  },
+  "Whisper 加载失败，请重试": {
+    "zh-Hans": "Whisper 加载失败，请重试",
+    "en": "Whisper load failed, please retry",
+    "ja": "Whisper load failed, please retry",
+    "ko": "Whisper load failed, please retry",
+    "fr": "Whisper load failed, please retry"
+  },
+  "Whisper 模型 (~466 MB) 用于离线语音识别\\n下载后即可开始使用": {
+    "zh-Hans": "Whisper 模型 (~466 MB) 用于离线语音识别\n下载后即可开始使用",
+    "en": "Whisper model (~466 MB) for offline speech recognition\nDownload to get started",
+    "ja": "Whisperモデル (~466 MB) オフライン音声認識用\nダウンロードして使用開始",
+    "ko": "Whisper 모델 (~466 MB) 오프라인 음성 인식용\n다운로드하여 시작하기",
+    "fr": "Modèle Whisper (~466 Mo) pour reconnaissance vocale hors ligne\nTéléchargez pour commencer"
+  },
+  "Whisper 详情": {
+    "zh-Hans": "Whisper 详情",
+    "en": "Whisper Details",
+    "ja": "Whisper 詳細",
+    "ko": "Whisper 상세",
+    "fr": "Détails Whisper"
+  },
+  "distilled-600M (INT8 量化)": {
+    "zh-Hans": "distilled-600M (INT8 量化)",
+    "en": "distilled-600M (INT8 quantized)",
+    "ja": "蒸留600M (INT8量子化)",
+    "ko": "증류 600M (INT8 양자화)",
+    "fr": "Distillé 600M (INT8 quantifié)"
+  },
+  "zh ↔ en 模型": {
+    "zh-Hans": "zh ↔ en 模型",
+    "en": "zh ↔ en Model",
+    "ja": "中国語↔英語モデル",
+    "ko": "중국어↔영어 모델",
+    "fr": "Modèle zh↔en"
+  },
+  "~30 MB / 语言对": {
+    "zh-Hans": "~30 MB / 语言对",
+    "en": "~30 MB / Language Pair",
+    "ja": "~30 MB / Language Pair",
+    "ko": "~30 MB / Language Pair",
+    "fr": "~30 MB / Language Pair"
+  },
+  "~940 MB（4个文件）": {
+    "zh-Hans": "~940 MB（4个文件）",
+    "en": "~940 MB (4 files)",
+    "ja": "~940 MB (4 files)",
+    "ko": "~940 MB (4 files)",
+    "fr": "~940 MB (4 files)"
+  },
+  "© 2026 三维天工 (3dtobe)": {
+    "zh-Hans": "© 2026 三维天工 (3dtobe)",
+    "en": "© 2026 3dtobe (3dtobe)",
+    "ja": "© 2026 3D Tiangong (3dtobe)",
+    "ko": "© 2026 3D Tiangong (3dtobe)",
+    "fr": "© 2026 3D Tiangong (3dtobe)"
+  },
+  "三维天工 (3dtobe)": {
+    "zh-Hans": "三维天工 (3dtobe)",
+    "en": "3dtobe (3dtobe)",
+    "ja": "3D Tiangong (3dtobe)",
+    "ko": "3D Tiangong (3dtobe)",
+    "fr": "3D Tiangong (3dtobe)"
+  },
+  "三维天工 · 离线语音翻译": {
+    "zh-Hans": "三维天工 · 离线语音翻译",
+    "en": "3dtobe · Offline Voice Translator",
+    "ja": "3dtobe · オフライン音声翻訳",
+    "ko": "3dtobe · 오프라인 음성 번역",
+    "fr": "3dtobe · Traduction hors ligne"
+  },
+  "下一步": {
+    "zh-Hans": "下一步",
+    "en": "Next",
+    "ja": "次へ",
+    "ko": "다음",
+    "fr": "Suivant"
+  },
+  "下载": {
+    "zh-Hans": "下载",
+    "en": "Download",
+    "ja": "ダウンロード",
+    "ko": "다운로드",
+    "fr": "Télécharger"
+  },
+  "下载中": {
+    "zh-Hans": "下载中",
+    "en": "Downloading",
+    "ja": "ダウンロード中",
+    "ko": "다운로드 중",
+    "fr": "Téléchargement..."
+  },
+  "下载全部": {
+    "zh-Hans": "下载全部",
+    "en": "Download All",
+    "ja": "すべてダウンロード",
+    "ko": "모두 다운로드",
+    "fr": "Tout télécharger"
+  },
+  "下载失败": {
+    "zh-Hans": "下载失败",
+    "en": "Download Failed",
+    "ja": "ダウンロード失敗",
+    "ko": "다운로드 실패",
+    "fr": "Échec du téléchargement"
+  },
+  "下载将消耗流量": {
+    "zh-Hans": "下载将消耗流量",
+    "en": "Downloads will use data",
+    "ja": "ダウンロードは通信量を消費します",
+    "ko": "다운로드는 데이터를 소비합니다",
+    "fr": "Le téléchargement consomme des données"
+  },
+  "不同意并退出": {
+    "zh-Hans": "不同意并退出",
+    "en": "Disagree & Exit",
+    "ja": "同意せずに終了",
+    "ko": "동의하지 않고 종료",
+    "fr": "Refuser et quitter"
+  },
+  "中文": {
+    "zh-Hans": "中文",
+    "en": "Chinese",
+    "ja": "中国語",
+    "ko": "중국어",
+    "fr": "Chinois"
+  },
+  "主力": {
+    "zh-Hans": "主力",
+    "en": "Primary",
+    "ja": "主力",
+    "ko": "주력",
+    "fr": "Principal"
+  },
+  "主力翻译": {
+    "zh-Hans": "主力翻译",
+    "en": "Primary Translation",
+    "ja": "メイン翻訳",
+    "ko": "주 번역",
+    "fr": "Traduction principale"
+  },
+  "主力翻译引擎 · Google 设备端": {
+    "zh-Hans": "主力翻译引擎 · Google 设备端",
+    "en": "Primary Engine · Google On-device",
+    "ja": "メイン翻訳エンジン · Google端末",
+    "ko": "주 번역 엔진 · Google 기기",
+    "fr": "Moteur principal · Google"
+  },
+  "主力翻译引擎 · 设备端": {
+    "zh-Hans": "主力翻译引擎 · 设备端",
+    "en": "Primary Engine · On-device",
+    "ja": "メイン翻訳エンジン · 端末",
+    "ko": "주 번역 엔진 · 기기",
+    "fr": "Moteur principal · Appareil"
+  },
+  "仅当 ML Kit 不支持时按需加载": {
+    "zh-Hans": "仅当 ML Kit 不支持时按需加载",
+    "en": "Loaded on-demand when ML Kit unavailable",
+    "ja": "ML Kit非対応時のみオンデマンド読込",
+    "ko": "ML Kit 미지원 시에만 온디맨드 로드",
+    "fr": "Chargé uniquement si ML Kit non disponible"
+  },
+  "仍然下载": {
+    "zh-Hans": "仍然下载",
+    "en": "Download Anyway",
+    "ja": "ダウンロード続行",
+    "ko": "계속 다운로드",
+    "fr": "Télécharger"
+  },
+  "你想翻译什么？": {
+    "zh-Hans": "你想翻译什么？",
+    "en": "What would you like to translate?",
+    "ja": "What would you like to translate?",
+    "ko": "What would you like to translate?",
+    "fr": "What would you like to translate?"
+  },
+  "使用条款": {
+    "zh-Hans": "使用条款",
+    "en": "Terms of Use",
+    "ja": "利用規約",
+    "ko": "이용약관",
+    "fr": "Conditions d'utilisation"
+  },
+  "使用蜂窝网络": {
+    "zh-Hans": "使用蜂窝网络",
+    "en": "Using Cellular",
+    "ja": "モバイルデータ通信使用中",
+    "ko": "셀룰러 데이터 사용 중",
+    "fr": "Données cellulaires"
+  },
+  "使用蜂窝网络 — 下载将消耗流量": {
+    "zh-Hans": "使用蜂窝网络 — 下载将消耗流量",
+    "en": "Using Cellular — Downloads will use data",
+    "ja": "モバイル通信 — DLは通信量を消費",
+    "ko": "셀룰러 — DL은 데이터 소비",
+    "fr": "Cellulaire — consommation données"
+  },
+  "保存失败": {
+    "zh-Hans": "保存失败",
+    "en": "Save Failed",
+    "ja": "保存失敗",
+    "ko": "저장 실패",
+    "fr": "Échec de sauvegarde"
+  },
+  "保存翻译历史": {
+    "zh-Hans": "保存翻译历史",
+    "en": "Save Translation History",
+    "ja": "翻訳履歴を保存",
+    "ko": "번역 기록 저장",
+    "fr": "Sauvegarder l'historique"
+  },
+  "信息使用": {
+    "zh-Hans": "信息使用",
+    "en": "Information Use",
+    "ja": "情報の使用",
+    "ko": "정보 사용",
+    "fr": "Utilisation"
+  },
+  "信息共享": {
+    "zh-Hans": "信息共享",
+    "en": "Information Sharing",
+    "ja": "情報共有",
+    "ko": "정보 공유",
+    "fr": "Partage"
+  },
+  "信息收集": {
+    "zh-Hans": "信息收集",
+    "en": "Information Collection",
+    "ja": "情報収集",
+    "ko": "정보 수집",
+    "fr": "Collecte"
+  },
+  "儿童隐私": {
+    "zh-Hans": "儿童隐私",
+    "en": "Children's Privacy",
+    "ja": "児童のプライバシー",
+    "ko": "아동 보호",
+    "fr": "Enfants"
+  },
+  "免责声明": {
+    "zh-Hans": "免责声明",
+    "en": "Disclaimer",
+    "ja": "免責事項",
+    "ko": "면책 조항",
+    "fr": "Avertissement"
+  },
+  "公司": {
+    "zh-Hans": "公司",
+    "en": "Company",
+    "ja": "会社",
+    "ko": "회사",
+    "fr": "Société"
+  },
+  "关于": {
+    "zh-Hans": "关于",
+    "en": "About",
+    "ja": "について",
+    "ko": "정보",
+    "fr": "À propos"
+  },
+  "关于 VTM": {
+    "zh-Hans": "关于 VTM",
+    "en": "About VTM",
+    "ja": "VTMについて",
+    "ko": "VTM 정보",
+    "fr": "À propos de VTM"
+  },
+  "关于与支持": {
+    "zh-Hans": "关于与支持",
+    "en": "About & Support",
+    "ja": "概要とサポート",
+    "ko": "정보 및 지원",
+    "fr": "À propos et support"
+  },
+  "关闭": {
+    "zh-Hans": "关闭",
+    "en": "Close",
+    "ja": "閉じる",
+    "ko": "닫기",
+    "fr": "Fermer"
+  },
+  "切换角色": {
+    "zh-Hans": "切换角色",
+    "en": "Switch Speaker",
+    "ja": "役割切替",
+    "ko": "역할 전환",
+    "fr": "Changer de rôle"
+  },
+  "删除": {
+    "zh-Hans": "删除",
+    "en": "Delete",
+    "ja": "削除",
+    "ko": "삭제",
+    "fr": "Supprimer"
+  },
+  "删除模型": {
+    "zh-Hans": "删除模型",
+    "en": "Delete Model",
+    "ja": "モデル削除",
+    "ko": "모델 삭제",
+    "fr": "Supprimer le modèle"
+  },
+  "前往设置": {
+    "zh-Hans": "前往设置",
+    "en": "Open Settings",
+    "ja": "設定を開く",
+    "ko": "설정 열기",
+    "fr": "Ouvrir Réglages"
+  },
+  "前往设置下载模型": {
+    "zh-Hans": "前往设置下载模型",
+    "en": "Go to Settings to download models",
+    "ja": "設定でモデルをダウンロード",
+    "ko": "설정에서 다운로드",
+    "fr": "Télécharger dans Réglages"
+  },
+  "剩余 %d 天免费试用": {
+    "zh-Hans": "剩余 %d 天免费试用",
+    "en": "%d days remaining in trial",
+    "ja": "残り%d日間無料トライアル",
+    "ko": "무료 평가판 %d일 남음",
+    "fr": "Essai gratuit : %d jours restants"
+  },
+  "加载": {
+    "zh-Hans": "加载",
+    "en": "Loading",
+    "ja": "読込",
+    "ko": "로드",
+    "fr": "Charger"
+  },
+  "加载中": {
+    "zh-Hans": "加载中",
+    "en": "Loading",
+    "ja": "読込中",
+    "ko": "로드 중",
+    "fr": "Chargement"
+  },
+  "协议": {
+    "zh-Hans": "协议",
+    "en": "License",
+    "ja": "ライセンス",
+    "ko": "라이선스",
+    "fr": "Licence"
+  },
+  "去下载": {
+    "zh-Hans": "去下载",
+    "en": "Download",
+    "ja": "ダウンロードへ",
+    "ko": "다운로드로",
+    "fr": "Télécharger"
+  },
+  "反馈": {
+    "zh-Hans": "反馈",
+    "en": "Feedback",
+    "ja": "フィードバック",
+    "ko": "피드백",
+    "fr": "Retour"
+  },
+  "取消": {
+    "zh-Hans": "取消",
+    "en": "Cancel",
+    "ja": "キャンセル",
+    "ko": "취소",
+    "fr": "Annuler"
+  },
+  "可放心下载": {
+    "zh-Hans": "可放心下载",
+    "en": "Safe to download",
+    "ja": "安全にダウンロード可",
+    "ko": "안전하게 다운로드 가능",
+    "fr": "Téléchargement sécurisé"
+  },
+  "同意并继续": {
+    "zh-Hans": "同意并继续",
+    "en": "Agree & Continue",
+    "ja": "同意して続ける",
+    "ko": "동의하고 계속하기",
+    "fr": "Accepter et continuer"
+  },
+  "后备": {
+    "zh-Hans": "后备",
+    "en": "Backup",
+    "ja": "バックアップ",
+    "ko": "백업",
+    "fr": "Secours"
+  },
+  "后备引擎，仅 ML Kit 不支持时使用": {
+    "zh-Hans": "后备引擎，仅 ML Kit 不支持时使用",
+    "en": "Backup engine, used only when ML Kit is unsupported",
+    "ja": "Backup engine, used only when ML Kit is unsupported",
+    "ko": "Backup engine, used only when ML Kit is unsupported",
+    "fr": "Backup engine, used only when ML Kit is unsupported"
+  },
+  "后备翻译": {
+    "zh-Hans": "后备翻译",
+    "en": "Backup Translation",
+    "ja": "バックアップ翻訳",
+    "ko": "백업 번역",
+    "fr": "Traduction de secours"
+  },
+  "备用翻译模型加载中...": {
+    "zh-Hans": "备用翻译模型加载中...",
+    "en": "Backup translation model loading...",
+    "ja": "バックアップ翻訳モデル読込中...",
+    "ko": "백업 번역 모델 로드 중...",
+    "fr": "Modèle de secours en chargement..."
+  },
+  "备用翻译模型未下载": {
+    "zh-Hans": "备用翻译模型未下载",
+    "en": "Backup model not downloaded",
+    "ja": "バックアップ翻訳モデル未DL",
+    "ko": "백업 번역 모델 미다운로드",
+    "fr": "Modèle de secours non téléchargé"
+  },
+  "备用翻译模型未加载": {
+    "zh-Hans": "备用翻译模型未加载",
+    "en": "Backup model not loaded",
+    "ja": "バックアップ翻訳モデル未読込",
+    "ko": "백업 번역 모델 미로드",
+    "fr": "Modèle de secours non chargé"
+  },
+  "复制译文": {
+    "zh-Hans": "复制译文",
+    "en": "Copy Translation",
+    "ja": "訳文をコピー",
+    "ko": "번역문 복사",
+    "fr": "Copier la traduction"
+  },
+  "外观": {
+    "zh-Hans": "外观",
+    "en": "Appearance",
+    "ja": "外観",
+    "ko": "화면 스타일",
+    "fr": "Apparence"
+  },
+  "外观模式": {
+    "zh-Hans": "外观模式",
+    "en": "Theme",
+    "ja": "外観モード",
+    "ko": "화면 모ード",
+    "fr": "Mode d'apparence"
+  },
+  "多语言支持（中英日韩等）": {
+    "zh-Hans": "多语言支持（中英日韩等）",
+    "en": "Multilingual support (CN, EN, JP, KR, etc.)",
+    "ja": "多言語対応（中日英韓等）",
+    "ko": "다국어 지원 (중영일한 등)",
+    "fr": "Support multilingue (zh/en/ja/ko)"
+  },
+  "多语言自动检测": {
+    "zh-Hans": "多语言自动检测",
+    "en": "Multilingual auto-detection",
+    "ja": "多言語自動検出",
+    "ko": "다국어 자동 감지",
+    "fr": "Détection multilingue auto"
+  },
+  "大小": {
+    "zh-Hans": "大小",
+    "en": "Size",
+    "ja": "サイズ",
+    "ko": "크기",
+    "fr": "Taille"
+  },
+  "好的": {
+    "zh-Hans": "好的",
+    "en": "OK",
+    "ja": "OK",
+    "ko": "확인",
+    "fr": "OK"
+  },
+  "如有问题或建议，请随时通过上方电话联系开发者。": {
+    "zh-Hans": "如有问题或建议，请随时通过上方电话联系开发者。",
+    "en": "For questions or suggestions, please contact the developer via phone above.",
+    "ja": "For questions or suggestions, please contact the developer via phone above.",
+    "ko": "For questions or suggestions, please contact the developer via phone above.",
+    "fr": "For questions or suggestions, please contact the developer via phone above."
+  },
+  "如果您对本使用条款有任何疑问，请通过以下方式联系我们：\\n\\n邮箱：legal@vtm-app.com": {
+    "zh-Hans": "如果您对本使用条款有任何疑问，请通过以下方式联系我们：\n\n邮箱：azhang364@gmail.com",
+    "en": "For questions about these Terms of Use, please contact us at:\n\nEmail: azhang364@gmail.com",
+    "ja": "ご質問は以下までご連絡ください：",
+    "ko": "문의사항은 아래로 연락하세요:",
+    "fr": "Pour toute question, contactez-nous :"
+  },
+  "如果您对本隐私政策或使用条款有任何疑问，请通过以下方式联系我们：\\n\\n邮箱：privacy@vtm-app.com": {
+    "zh-Hans": "如果您对本隐私政策或使用条款有任何疑问，请通过以下方式联系我们：\n\n邮箱：azhang364@gmail.com",
+    "en": "For questions about our Privacy Policy or Terms of Use, please contact us at:\n\nEmail: azhang364@gmail.com",
+    "ja": "ご質問は以下までご連絡ください：",
+    "ko": "문의사항은 아래로 연락하세요:",
+    "fr": "Pour toute question, contactez-nous :"
+  },
+  "如果您对本隐私政策有任何疑问或关切，请通过以下方式联系我们：": {
+    "zh-Hans": "如果您对本隐私政策有任何疑问或关切，请通过以下方式联系我们：",
+    "en": "For questions about this Privacy Policy, contact us at:",
+    "ja": "本プライバシーポリシーに関するご質問は以下までご連絡ください：",
+    "ko": "본 개인정보 처리방침에 대한 문의는 아래로 연락하세요:",
+    "fr": "Pour toute question concernant cette politique, contactez-nous :"
+  },
+  "如果您对本隐私政策有任何疑问或关切，请通过以下方式联系我们：\\n\\n邮箱：privacy@vtm-app.com": {
+    "zh-Hans": "如果您对本隐私政策有任何疑问或关切，请通过以下方式联系我们：\n\n邮箱：azhang364@gmail.com",
+    "en": "For questions or concerns about this Privacy Policy, please contact us at:\n\nEmail: azhang364@gmail.com",
+    "ja": "ご質問は以下までご連絡ください：",
+    "ko": "문의사항은 아래로 연락하세요:",
+    "fr": "Pour toute question, contactez-nous :"
+  },
+  "完全本地离线，无需网络": {
+    "zh-Hans": "完全本地离线，无需网络",
+    "en": "Fully local offline, no network required",
+    "ja": "Fully local offline, no network required",
+    "ko": "Fully local offline, no network required",
+    "fr": "Fully local offline, no network required"
+  },
+  "完全离线，无需网络连接": {
+    "zh-Hans": "完全离线，无需网络连接",
+    "en": "Fully offline, no internet required",
+    "ja": "完全オフライン",
+    "ko": "완전 오フライン",
+    "fr": "100% hors ligne"
+  },
+  "完成": {
+    "zh-Hans": "完成",
+    "en": "Done",
+    "ja": "完了",
+    "ko": "완료",
+    "fr": "Terminé"
+  },
+  "实时语音识别与翻译": {
+    "zh-Hans": "实时语音识别与翻译",
+    "en": "Real-time speech recognition & translation",
+    "ja": "Real-time speech recognition & translation",
+    "ko": "Real-time speech recognition & translation",
+    "fr": "Real-time speech recognition & translation"
+  },
+  "对 Siri 说「用VTM翻译」即可快速翻译文本": {
+    "zh-Hans": "对 Siri 说「用VTM翻译」即可快速翻译文本",
+    "en": "Say \"Translate with VTM\" to Siri to quickly translate text",
+    "ja": "Siriに「VTMで翻訳」と言うと素早く翻訳できます。iOS 16+対応、ショートカットAppで管理可能",
+    "ko": "Siri에게 'VTM으로 번역'이라고 말하면 빠르게 번역됩니다. iOS 16+ 지원, 단축어 앱에서 관리",
+    "fr": "Dites « Traduire avec VTM » à Siri pour traduire rapidement. iOS 16+, gérez dans l'app Raccourcis"
+  },
+  "对话": {
+    "zh-Hans": "对话",
+    "en": "Conversation",
+    "ja": "Conversation",
+    "ko": "Conversation",
+    "fr": "Conversation"
+  },
+  "对话模式": {
+    "zh-Hans": "对话模式",
+    "en": "Conversation Mode",
+    "ja": "会話モード",
+    "ko": "대화 모ード",
+    "fr": "Mode conversation"
+  },
+  "将删除全部 %d 条翻译记录，此操作不可撤销。": {
+    "zh-Hans": "将删除全部 %d 条翻译记录，此操作不可撤销。",
+    "en": "This will delete all %d translation records. This action cannot be undone.",
+    "ja": "%d件の翻訳記録をすべて削除します。この操作は元に戻せません。",
+    "ko": "%d개의 번역 기록을 모두 삭제합니다. 이 작업은 취소할 수 없습니다.",
+    "fr": "Cela supprimera tous les %d enregistrements. Cette action est irréversible."
+  },
+  "将删除所有已下载的模型文件，需要重新下载才能使用。确定继续吗？": {
+    "zh-Hans": "将删除所有已下载的模型文件，需要重新下载才能使用。确定继续吗？",
+    "en": "This will delete all downloaded model files. You will need to download again. Continue?",
+    "ja": "This will delete all downloaded model files. You will need to download again. Continue?",
+    "ko": "This will delete all downloaded model files. You will need to download again. Continue?",
+    "fr": "This will delete all downloaded model files. You will need to download again. Continue?"
+  },
+  "将删除所有已下载的模型文件，需重新下载。": {
+    "zh-Hans": "将删除所有已下载的模型文件，需重新下载。",
+    "en": "All downloaded model files will be deleted. Re-download required.",
+    "ja": "All downloaded model files will be deleted. Re-download required.",
+    "ko": "All downloaded model files will be deleted. Re-download required.",
+    "fr": "All downloaded model files will be deleted. Re-download required."
+  },
+  "将文本粘贴到 VTM 翻译输入框中，方便直接查看翻译结果或朗读。": {
+    "zh-Hans": "将文本粘贴到 VTM 翻译输入框中，方便直接查看翻译结果或朗读。",
+    "en": "Paste text into VTM to view translation or read aloud.",
+    "ja": "Paste text into VTM to view translation or read aloud.",
+    "ko": "Paste text into VTM to view translation or read aloud.",
+    "fr": "Paste text into VTM to view translation or read aloud."
+  },
+  "将永久删除所有翻译记录，此操作不可撤销。": {
+    "zh-Hans": "将永久删除所有翻译记录，此操作不可撤销。",
+    "en": "This will permanently delete all translation history. This cannot be undone.",
+    "ja": "This will permanently delete all translation history. This cannot be undone.",
+    "ko": "This will permanently delete all translation history. This cannot be undone.",
+    "fr": "This will permanently delete all translation history. This cannot be undone."
+  },
+  "已下载": {
+    "zh-Hans": "已下载",
+    "en": "Downloaded",
+    "ja": "ダウンロード済",
+    "ko": "다운로드 완료",
+    "fr": "Téléchargé"
+  },
+  "已保存 %d 条记录": {
+    "zh-Hans": "已保存 %d 条记录",
+    "en": "%d records saved",
+    "ja": "%d records saved",
+    "ko": "%d records saved",
+    "fr": "%d records saved"
+  },
+  "已加载": {
+    "zh-Hans": "已加载",
+    "en": "Loaded",
+    "ja": "読込済",
+    "ko": "로드됨",
+    "fr": "Chargé"
+  },
+  "已取消收藏": {
+    "zh-Hans": "已取消收藏",
+    "en": "Removed from favorites",
+    "ja": "Removed from favorites",
+    "ko": "Removed from favorites",
+    "fr": "Removed from favorites"
+  },
+  "已复制": {
+    "zh-Hans": "已复制",
+    "en": "Copied",
+    "ja": "コピーしました",
+    "ko": "복사됨",
+    "fr": "Copié"
+  },
+  "已就绪": {
+    "zh-Hans": "已就绪",
+    "en": "Ready",
+    "ja": "Ready",
+    "ko": "Ready",
+    "fr": "Ready"
+  },
+  "已清空历史": {
+    "zh-Hans": "已清空历史",
+    "en": "History Cleared",
+    "ja": "History Cleared",
+    "ko": "History Cleared",
+    "fr": "History Cleared"
+  },
+  "已清除所有模型缓存": {
+    "zh-Hans": "已清除所有模型缓存",
+    "en": "All model caches cleared",
+    "ja": "All model caches cleared",
+    "ko": "All model caches cleared",
+    "fr": "All model caches cleared"
+  },
+  "已激活 ✓": {
+    "zh-Hans": "已激活 ✓",
+    "en": "Activated ✓",
+    "ja": "アクティベート済 ✓",
+    "ko": "활성화됨 ✓",
+    "fr": "Activé ✓"
+  },
+  "已连接": {
+    "zh-Hans": "已连接",
+    "en": "Connected",
+    "ja": "Connected",
+    "ko": "Connected",
+    "fr": "Connected"
+  },
+  "已连接 Wi-Fi — 可放心下载": {
+    "zh-Hans": "已连接 Wi-Fi — 可放心下载",
+    "en": "Wi-Fi Connected — Safe to download",
+    "ja": "Wi-Fi Connected â Safe to download",
+    "ko": "Wi-Fi Connected â Safe to download",
+    "fr": "Wi-Fi Connected â Safe to download"
+  },
+  "已重置": {
+    "zh-Hans": "已重置",
+    "en": "Reset Complete",
+    "ja": "Reset Complete",
+    "ko": "Reset Complete",
+    "fr": "Reset Complete"
+  },
+  "已重置引导流程": {
+    "zh-Hans": "已重置引导流程",
+    "en": "Onboarding reset complete",
+    "ja": "Onboarding reset complete",
+    "ko": "Onboarding reset complete",
+    "fr": "Onboarding reset complete"
+  },
+  "应用语言": {
+    "zh-Hans": "应用语言",
+    "en": "App Language",
+    "ja": "アプリ言語",
+    "ko": "앱 언어",
+    "fr": "Langue de l'application"
+  },
+  "开发者": {
+    "zh-Hans": "开发者",
+    "en": "Developer",
+    "ja": "Developer",
+    "ko": "Developer",
+    "fr": "Developer"
+  },
+  "开发者信息": {
+    "zh-Hans": "开发者信息",
+    "en": "Developer Info",
+    "ja": "開発者情報",
+    "ko": "개발자 정보",
+    "fr": "Développeur"
+  },
+  "开始": {
+    "zh-Hans": "开始",
+    "en": "Get Started",
+    "ja": "開始",
+    "ko": "시작",
+    "fr": "Démarrer"
+  },
+  "开源的高精度语音识别模型，由 OpenAI 移植到 C/C++。": {
+    "zh-Hans": "开源的高精度语音识别模型，由 OpenAI 移植到 C/C++。",
+    "en": "Open-source high-accuracy speech recognition model, ported to C/C++ by OpenAI.",
+    "ja": "Open-source high-accuracy speech recognition model, ported to C/C++ by OpenAI.",
+    "ko": "Open-source high-accuracy speech recognition model, ported to C/C++ by OpenAI.",
+    "fr": "Open-source high-accuracy speech recognition model, ported to C/C++ by OpenAI."
+  },
+  "引言": {
+    "zh-Hans": "引言",
+    "en": "Introduction",
+    "ja": "はじめに",
+    "ko": "서문",
+    "fr": "Introduction"
+  },
+  "张恒郡": {
+    "zh-Hans": "张恒郡",
+    "en": "Zhang Hengjun",
+    "ja": "Zhang Hengjun",
+    "ko": "Zhang Hengjun",
+    "fr": "Zhang Hengjun"
+  },
+  "当前使用蜂窝网络，下载大模型可能消耗大量流量。建议连接 Wi-Fi 后再下载。": {
+    "zh-Hans": "当前使用蜂窝网络，下载大模型可能消耗大量流量。建议连接 Wi-Fi 后再下载。",
+    "en": "You are on cellular data. Downloading large models may use significant data. Connect to Wi-Fi first.",
+    "ja": "You are on cellular data. Downloading large models may use significant data. Connect to Wi-Fi first.",
+    "ko": "You are on cellular data. Downloading large models may use significant data. Connect to Wi-Fi first.",
+    "fr": "You are on cellular data. Downloading large models may use significant data. Connect to Wi-Fi first."
+  },
+  "录音启动失败": {
+    "zh-Hans": "录音启动失败",
+    "en": "Recording failed to start",
+    "ja": "Recording failed to start",
+    "ko": "Recording failed to start",
+    "fr": "Recording failed to start"
+  },
+  "待开发": {
+    "zh-Hans": "待开发",
+    "en": "Coming Soon",
+    "ja": "Coming Soon",
+    "ko": "Coming Soon",
+    "fr": "Coming Soon"
+  },
+  "必需": {
+    "zh-Hans": "必需",
+    "en": "Required",
+    "ja": "必須",
+    "ko": "필수",
+    "fr": "Requis"
+  },
+  "必需品": {
+    "zh-Hans": "必需品",
+    "en": "Required",
+    "ja": "Required",
+    "ko": "Required",
+    "fr": "Required"
+  },
+  "您同意：\\n\\n1. 不将本应用用于任何非法目的。\\n\\n2. 不干扰或破坏应用的正常运行。\\n\\n3. 不尝试未经授权访问我们的系统或网络。\\n\\n4. 对您使用本应用的行为承担全部责任。": {
+    "zh-Hans": "您同意：\n\n1. 不将本应用用于任何非法目的。\n\n2. 不干扰或破坏应用的正常运行。\n\n3. 不尝试未经授权访问我们的系统或网络。\n\n4. 对您使用本应用的行为承担全部责任。",
+    "en": "You agree to:\n\n1. Not use the app for any unlawful purpose.\n\n2. Not interfere with or disrupt the app's normal operation.\n\n3. Not attempt unauthorized access to our systems or networks.\n\n4. Assume full responsibility for your use of the app.",
+    "ja": "お客様は以下に同意します：\n\n1. 本アプリを違法目的で使用しない\n\n2. 通常動作を妨害・破壊しない\n\n3. システムへの不正アクセスを試みない\n\n4. 使用に関する全責任を負う",
+    "ko": "귀하는 다음에 동의합니다:\n\n1. 불법적 목적으로 사용하지 않음\n\n2. 정상 작동을 방해하지 않음\n\n3. 무단 접근을 시도하지 않음\n\n4. 사용에 대한 모든 책임을 짐",
+    "fr": "Vous acceptez de :\n\n1. Ne pas utiliser l'App à des fins illégales\n\n2. Ne pas perturber son fonctionnement\n\n3. Ne pas tenter d'accès non autorisé\n\n4. Assumer l'entière responsabilité"
+  },
+  "您的数据将被安全存储": {
+    "zh-Hans": "您的数据将被安全存储",
+    "en": "Your data will be stored securely",
+    "ja": "Your data will be stored securely",
+    "ko": "Your data will be stored securely",
+    "fr": "Your data will be stored securely"
+  },
+  "您的智能语音翻译助手": {
+    "zh-Hans": "您的智能语音翻译助手",
+    "en": "Your Smart Voice Translation Assistant",
+    "ja": "スマート音声翻訳アシスタント",
+    "ko": "스마트 음성 번역 도우미",
+    "fr": "Votre assistant vocal"
+  },
+  "您的权利": {
+    "zh-Hans": "您的权利",
+    "en": "Your Rights",
+    "ja": "お客様の権利",
+    "ko": "귀하의 권리",
+    "fr": "Vos droits"
+  },
+  "感谢您的支持！VTM 已永久激活。": {
+    "zh-Hans": "感谢您的支持！VTM 已永久激活。",
+    "en": "Thank you for your support! VTM is now permanently activated.",
+    "ja": "ご支援ありがとうございます！",
+    "ko": "지원해 주셔서 감사합니다!",
+    "fr": "Merci pour votre soutien !"
+  },
+  "我们不会出售您的个人信息。我们可能在以下情况下共享您的信息：\\n\\n1. 经您同意：在您同意的情况下，我们可能与第三方共享您的信息。\\n\\n2. 服务提供商：我们可能与帮助我们从事实翻译服务的服务提供商共享信息。\\n\\n3. 法律要求：如果法律要求或为了保护我们的权利，我们可能会披露您的信息。": {
+    "zh-Hans": "我们不会出售您的个人信息。我们可能在以下情况下共享您的信息：\n\n1. 经您同意：在您同意的情况下，我们可能与第三方共享您的信息。\n\n2. 服务提供商：我们可能与帮助我们从事实翻译服务的服务提供商共享信息。\n\n3. 法律要求：如果法律要求或为了保护我们的权利，我们可能会披露您的信息。",
+    "en": "We do not sell your personal information. We may share your information in the following circumstances:\n\n1. With Your Consent: We may share with third parties with your consent.\n\n2. Service Providers: We may share with providers assisting our translation services.\n\n3. Legal Requirements: We may disclose if required by law or to protect our rights.",
+    "ja": "当社は個人情報を販売しません。以下の場合に情報を共有することがあります：\n\n1. 同意に基づく場合：お客様の同意がある場合\n\n2. サービス提供者：翻訳サービスを支援する提供者と共有\n\n3. 法的要件：法律により要求される場合、または権利保護のため開示",
+    "ko": "당사는 개인정보를 판매하지 않습니다. 다음 경우에 정보를 공유할 수 있습니다:\n\n1. 동의 기반: 귀하의 동의가 있는 경우\n\n2. 서비스 제공자: 번역 서비스를 지원하는 제공자와 공유\n\n3. 법적 요구: 법률에 따라 또는 권리 보호를 위해 공개",
+    "fr": "Nous ne vendons pas vos informations. Partage possible :\n\n1. Avec votre consentement\n\n2. Avec les prestataires de services\n\n3. Si la loi l'exige ou pour protéger nos droits"
+  },
+  "我们使用收集的信息用于以下目的：\\n\\n1. 提供、维护和改进我们的翻译服务。\\n\\n2. 处理您的语音输入并进行翻译。\\n\\n3. 开发新功能和服务。\\n\\n4. 保护我们的服务和用户。": {
+    "zh-Hans": "我们使用收集的信息用于以下目的：\n\n1. 提供、维护和改进我们的翻译服务。\n\n2. 处理您的语音输入并进行翻译。\n\n3. 开发新功能和服务。\n\n4. 保护我们的服务和用户。",
+    "en": "We use collected information for the following purposes:\n\n1. Provide, maintain, and improve our translation services.\n\n2. Process your voice input and perform translation.\n\n3. Develop new features and services.\n\n4. Protect our services and users.",
+    "ja": "収集した情報は以下の目的で使用します：\n\n1. 翻訳サービスの提供・維持・改善\n\n2. 音声入力の処理と翻訳\n\n3. 新機能・サービスの開発\n\n4. サービスとユーザーの保護",
+    "ko": "수집된 정보는 다음 목적으로 사용됩니다:\n\n1. 번역 서비스 제공, 유지, 개선\n\n2. 음성 입력 처리 및 번역\n\n3. 새로운 기능 및 서비스 개발\n\n4. 서비스와 사용자 보호",
+    "fr": "Nous utilisons les informations collectées pour :\n\n1. Fournir, maintenir et améliorer nos services\n\n2. Traiter vos entrées vocales\n\n3. Développer de nouvelles fonctionnalités\n\n4. Protéger nos services et utilisateurs"
+  },
+  "我们使用本地离线翻译引擎": {
+    "zh-Hans": "我们使用本地离线翻译引擎",
+    "en": "We use local offline translation engines",
+    "ja": "We use local offline translation engines",
+    "ko": "We use local offline translation engines",
+    "fr": "We use local offline translation engines"
+  },
+  "我们保留随时修改本使用条款的权利。修改后的条款将在应用内发布。您继续使用本应用即表示您接受修改后的条款。": {
+    "zh-Hans": "我们保留随时修改本使用条款的权利。修改后的条款将在应用内发布。您继续使用本应用即表示您接受修改后的条款。",
+    "en": "We reserve the right to modify these Terms at any time. Modified terms will be posted in-app. Continued use constitutes acceptance.",
+    "ja": "当社は本規約を随時変更する権利を留保します。変更後はアプリ内で公開され、継続使用により変更後の規約に同意したものとみなされます。",
+    "ko": "당사는 본 약관을 수시로 변경할 권리를 보유합니다. 변경된 약관은 앱 내 게시되며 계속 사용 시 변경에 동의한 것으로 간주됩니다.",
+    "fr": "Nous pouvons modifier ces Conditions à tout moment. Les modifications seront publiées dans l'Application. Votre utilisation continue vaut acceptation."
+  },
+  "我们可能会不时更新本隐私政策。我们会通过应用内通知或更新日期的方式通知您任何重大变更。建议您定期查看本政策以了解最新信息。": {
+    "zh-Hans": "我们可能会不时更新本隐私政策。我们会通过应用内通知或更新日期的方式通知您任何重大变更。建议您定期查看本政策以了解最新信息。",
+    "en": "We may update this policy periodically. Material changes will be notified in-app or by updating the date. Please review periodically.",
+    "ja": "当社は本ポリシーを随時更新することがあります。重要な変更はアプリ内通知または更新日でお知らせします。定期的なご確認をお勧めします。",
+    "ko": "당사는 본 정책을 수시로 업데이트할 수 있습니다. 중요한 변경은 앱 내 알림 또는 업데이트 날짜로 알려드립니다. 정기적인 확인을 권장합니다.",
+    "fr": "Nous pouvons mettre à jour cette politique. Les changements importants seront notifiés dans l'application. Consultez-la régulièrement."
+  },
+  "我们可能收集以下信息：\\n\\n1. 语音数据：当您使用语音翻译功能时，我们会录制并处理您的语音。\\n\\n2. 设备信息：我们收集设备类型、操作系统版本、唯一设备标识符等信息以优化应用性能。\\n\\n3. 使用数据：我们收集应用使用统计信息，以改进我们的服务。\\n\\n4. 翻译历史：如果您选择保存翻译历史，相关翻译记录将存储在您的设备上。": {
+    "zh-Hans": "我们可能收集以下信息：\n\n1. 语音数据：当您使用语音翻译功能时，我们会录制并处理您的语音。\n\n2. 设备信息：我们收集设备类型、操作系统版本、唯一设备标识符等信息以优化应用性能。\n\n3. 使用数据：我们收集应用使用统计信息，以改进我们的服务。\n\n4. 翻译历史：如果您选择保存翻译历史，相关翻译记录将存储在您的设备上。",
+    "en": "We may collect the following information:\n\n1. Voice Data: When using voice translation, we record and process your voice.\n\n2. Device Information: We collect device type, OS version, and unique device identifiers to optimize performance.\n\n3. Usage Data: We collect app usage statistics to improve our services.\n\n4. Translation History: If you choose to save translation history, records are stored on your device.",
+    "ja": "当社は以下の情報を収集する場合があります：\n\n1. 音声データ：音声翻訳機能の使用時に録音・処理します。\n\n2. デバイス情報：最適化のため端末種類・OS版・識別子等を収集します。\n\n3. 利用データ：サービス改善のため利用統計を収集します。\n\n4. 翻訳履歴：保存を選択した場合、記録は端末に保存されます。",
+    "ko": "당사는 다음 정보를 수집할 수 있습니다:\n\n1. 음성 데이터: 음성 번역 기능 사용 시 녹음 및 처리.\n\n2. 기기 정보: 최적화를 위해 기기종류, OS버전, 식별자 등 수집.\n\n3. 사용 데이터: 서비스 개선을 위해 사용 통계 수집.\n\n4. 번역 기록: 저장 선택 시 기록은 기기에 저장.",
+    "fr": "Nous pouvons collecter :\n\n1. Données vocales : enregistrées lors de la traduction.\n\n2. Infos appareil : type, OS, identifiants pour optimisation.\n\n3. Données d'usage : statistiques pour améliorer le service.\n\n4. Historique : stocké sur l'appareil si activé."
+  },
+  "我们收集语音数据用于翻译": {
+    "zh-Hans": "我们收集语音数据用于翻译",
+    "en": "We collect voice data for translation",
+    "ja": "We collect voice data for translation",
+    "ko": "We collect voice data for translation",
+    "fr": "We collect voice data for translation"
+  },
+  "我们的服务不面向 13 岁以下的儿童。我们不会故意收集 13 岁以下儿童的个人信息。": {
+    "zh-Hans": "我们的服务不面向 13 岁以下的儿童。我们不会故意收集 13 岁以下儿童的个人信息。",
+    "en": "Our service is not for children under 13. We do not knowingly collect information from children under 13.",
+    "ja": "Our service is not for children under 13. We do not knowingly collect information from children under 13.",
+    "ko": "Our service is not for children under 13. We do not knowingly collect information from children under 13.",
+    "fr": "Our service is not for children under 13. We do not knowingly collect information from children under 13."
+  },
+  "我们的服务不面向13岁以下的儿童。我们不会故意收集13岁以下儿童的个人信息。如果我们发现收集了13岁以下儿童的个人信息，我们将采取措施删除该信息。": {
+    "zh-Hans": "我们的服务不面向13岁以下的儿童。我们不会故意收集13岁以下儿童的个人信息。如果我们发现收集了13岁以下儿童的个人信息，我们将采取措施删除该信息。",
+    "en": "Our service is not intended for children under 13. We do not knowingly collect information from children under 13. If we discover such information, we will take steps to delete it.",
+    "ja": "当社のサービスは13歳未満の児童を対象としていません。故意に13歳未満の情報を収集することはなく、収集が判明した場合は削除措置を講じます。",
+    "ko": "당사의 서비스는 13세 미만 아동을 대상으로 하지 않습니다. 고의로 13세 미만 정보를 수집하지 않으며 발견 시 삭제 조치합니다.",
+    "fr": "Nos services ne visent pas les moins de 13 ans. Nous ne collectons pas sciemment leurs données et les supprimerons si découvertes."
+  },
+  "我们采取合理措施保护您的信息免受未经授权的访问、使用或披露。但请注意，互联网传输或电子存储方法并不完全安全，我们无法保证绝对安全。": {
+    "zh-Hans": "我们采取合理措施保护您的信息免受未经授权的访问、使用或披露。但请注意，互联网传输或电子存储方法并不完全安全，我们无法保证绝对安全。",
+    "en": "We take reasonable measures to protect your information. However, no electronic storage or transmission is completely secure.",
+    "ja": "当社は不正アクセス・使用・開示から情報を保護する合理的措置を講じています。ただし、インターネット転送や電子保存は完全に安全ではなく、絶対的な安全性は保証できません。",
+    "ko": "당사는 무단 접근, 사용, 공개로부터 정보를 보호하기 위한 합리적 조치를 취합니다. 그러나 인터넷 전송이나 전자 저장이 완전히 안전하지는 않으며 절대적 안전을 보장할 수 없습니다.",
+    "fr": "Nous prenons des mesures raisonnables contre tout accès non autorisé. Cependant, aucune méthode de transmission n'est totalement sécurisée."
+  },
+  "所有文件下载完成": {
+    "zh-Hans": "所有文件下载完成",
+    "en": "All files downloaded",
+    "ja": "All files downloaded",
+    "ko": "All files downloaded",
+    "fr": "All files downloaded"
+  },
+  "所有模型缓存已清除": {
+    "zh-Hans": "所有模型缓存已清除",
+    "en": "All model caches cleared",
+    "ja": "All model caches cleared",
+    "ko": "All model caches cleared",
+    "fr": "All model caches cleared"
+  },
+  "技术方案": {
+    "zh-Hans": "技术方案",
+    "en": "Technology Stack",
+    "ja": "技術仕様",
+    "ko": "기술 사양",
+    "fr": "Spécifications"
+  },
+  "拍摄照片或从相册选择": {
+    "zh-Hans": "拍摄照片或从相册选择",
+    "en": "Take a photo or choose from album",
+    "ja": "写真撮影またはアルバムから選択",
+    "ko": "사진 촬영 또는 앨범에서 선택",
+    "fr": "Prendre une photo ou choisir"
+  },
+  "拍照翻译": {
+    "zh-Hans": "拍照翻译",
+    "en": "Photo Translate",
+    "ja": "写真翻訳",
+    "ko": "사진 번역",
+    "fr": "Traduction photo"
+  },
+  "按住下方按钮开始说话": {
+    "zh-Hans": "按住下方按钮开始说话",
+    "en": "Hold the button below to speak",
+    "ja": "下のボタンを長押しして話し始める",
+    "ko": "아래 버튼을 길게 눌러 말하기",
+    "fr": "Maintenez pour parler"
+  },
+  "按住说话": {
+    "zh-Hans": "按住说话",
+    "en": "Hold to Speak",
+    "ja": "長押しして話す",
+    "ko": "길게 눌러 말하기",
+    "fr": "Maintenez pour parler"
+  },
+  "按需懒加载，不常驻内存": {
+    "zh-Hans": "按需懒加载，不常驻内存",
+    "en": "Lazy-loaded on demand, not memory-resident",
+    "ja": "オンデマンド遅延読込、常駐なし",
+    "ko": "온디맨드 지연 로드, 상주 없음",
+    "fr": "Chargement paresseux à la demande"
+  },
+  "接受条款": {
+    "zh-Hans": "接受条款",
+    "en": "Acceptance of Terms",
+    "ja": "規約の承諾",
+    "ko": "약관 동의",
+    "fr": "Acceptation"
+  },
+  "推理": {
+    "zh-Hans": "推理",
+    "en": "Inference",
+    "ja": "推論",
+    "ko": "추론",
+    "fr": "Inférence"
+  },
+  "推理加速": {
+    "zh-Hans": "推理加速",
+    "en": "Inference Acceleration",
+    "ja": "推論加速",
+    "ko": "추론 가속",
+    "fr": "Accélération d'inférence"
+  },
+  "搜索翻译记录": {
+    "zh-Hans": "搜索翻译记录",
+    "en": "Search translation history",
+    "ja": "翻訳記録を検索",
+    "ko": "번역 기록 검색",
+    "fr": "Rechercher dans l'historique"
+  },
+  "支持": {
+    "zh-Hans": "支持",
+    "en": "Support",
+    "ja": "サポート",
+    "ko": "지원",
+    "fr": "Support"
+  },
+  "支持 iOS 16+，可在系统「快捷指令」App 中管理": {
+    "zh-Hans": "支持 iOS 16+，可在系统「快捷指令」App 中管理",
+    "en": "iOS 16+ supported. Manage in the Shortcuts app",
+    "ja": "iOS 16+対応、ショートカットAppで管理",
+    "ko": "iOS 16+ 지원, 단축어 앱에서 관리",
+    "fr": "iOS 16+, gérez dans l'app Raccourcis"
+  },
+  "收藏": {
+    "zh-Hans": "收藏",
+    "en": "Favorites",
+    "ja": "お気に入り",
+    "ko": "즐겨찾기",
+    "fr": "Favoris"
+  },
+  "政策更新": {
+    "zh-Hans": "政策更新",
+    "en": "Policy Updates",
+    "ja": "ポリシー更新",
+    "ko": "정책 갱신",
+    "fr": "Mises à jour"
+  },
+  "数据安全": {
+    "zh-Hans": "数据安全",
+    "en": "Data Security",
+    "ja": "データセキュリティ",
+    "ko": "데이터 보안",
+    "fr": "Sécurité"
+  },
+  "数据管理": {
+    "zh-Hans": "数据管理",
+    "en": "Data Management",
+    "ja": "データ管理",
+    "ko": "데이터 관리",
+    "fr": "Gestion des données"
+  },
+  "无效的下载地址": {
+    "zh-Hans": "无效的下载地址",
+    "en": "Invalid download URL",
+    "ja": "無効なDLアドレス",
+    "ko": "유효하지 않은 DL 주소",
+    "fr": "URL de téléchargement invalide"
+  },
+  "暂无收藏内容": {
+    "zh-Hans": "暂无收藏内容",
+    "en": "No favorites yet",
+    "ja": "お気に入りなし",
+    "ko": "즐겨찾기 없음",
+    "fr": "Aucun favori"
+  },
+  "暂无翻译记录": {
+    "zh-Hans": "暂无翻译记录",
+    "en": "No translation history",
+    "ja": "履歴なし",
+    "ko": "기록 없음",
+    "fr": "Aucun historique"
+  },
+  "最后更新日期：2026年5月11日": {
+    "zh-Hans": "最后更新日期：2026年5月11日",
+    "en": "Last updated: May 11, 2026",
+    "ja": "Last updated: May 11, 2026",
+    "ko": "Last updated: May 11, 2026",
+    "fr": "Last updated: May 11, 2026"
+  },
+  "服务器错误": {
+    "zh-Hans": "服务器错误",
+    "en": "Server Error",
+    "ja": "Server Error",
+    "ko": "Server Error",
+    "fr": "Server Error"
+  },
+  "服务描述": {
+    "zh-Hans": "服务描述",
+    "en": "Service Description",
+    "ja": "サービス説明",
+    "ko": "서비스 설명",
+    "fr": "Description"
+  },
+  "未下载": {
+    "zh-Hans": "未下载",
+    "en": "Not Downloaded",
+    "ja": "未ダウンロード",
+    "ko": "미다운로드",
+    "fr": "Non téléchargé"
+  },
+  "未加载": {
+    "zh-Hans": "未加载",
+    "en": "Not Loaded",
+    "ja": "未読込",
+    "ko": "미로드",
+    "fr": "Non chargé"
+  },
+  "未安装": {
+    "zh-Hans": "未安装",
+    "en": "Not Installed",
+    "ja": "未インストール",
+    "ko": "미설치",
+    "fr": "Non installé"
+  },
+  "未检测到文字": {
+    "zh-Hans": "未检测到文字",
+    "en": "No text detected",
+    "ja": "テキスト未検出",
+    "ko": "텍스트 미감지",
+    "fr": "Aucun texte détecté"
+  },
+  "未检测到语音": {
+    "zh-Hans": "未检测到语音",
+    "en": "No Speech Detected",
+    "ja": "音声が検出されませんでした",
+    "ko": "음성이 감지되지 않음",
+    "fr": "Aucune voix détectée"
+  },
+  "未检测到语音，请长按说话": {
+    "zh-Hans": "未检测到语音，请长按说话",
+    "en": "No speech detected. Hold to speak.",
+    "ja": "音声が検出されませんでした。長押しして話してください。",
+    "ko": "음성이 감지되지 않았습니다. 길게 눌러 말하세요.",
+    "fr": "Aucune voix détectée. Maintenez pour parler."
+  },
+  "本应用及其所有内容、功能和特性（包括所有知识产权）均为我们或我们的许可方的财产。未经我们明确书面许可，您不得复制、修改、分发或创建衍生作品。": {
+    "zh-Hans": "本应用及其所有内容、功能和特性（包括所有知识产权）均为我们或我们的许可方的财产。未经我们明确书面许可，您不得复制、修改、分发或创建衍生作品。",
+    "en": "This app and all its content, features, and functionality (including all IP) are owned by us or our licensors. Do not copy, modify, distribute, or create derivative works without express written permission.",
+    "ja": "本アプリおよび全コンテンツ・機能（知的財産を含む）は当社またはライセンサーの財産です。書面による明示的な許可なく複製・改変・配布・二次的著作物の作成を禁じます。",
+    "ko": "본 앱 및 모든 콘텐츠, 기능(지식 재산권 포함)은 당사 또는 라이선스 제공자의 자산입니다. 서면 허가 없이 복제, 수정, 배포, 2차 저작물 생성을 금합니다.",
+    "fr": "L'Application et son contenu (PI incluse) sont notre propriété. Toute copie, modification ou distribution sans autorisation écrite est interdite."
+  },
+  "本应用按\\\"原样\\\"和\\\"可用\\\"基础提供。我们不保证应用的不间断、及时、安全或无错误运行。对于因使用或无法使用本应用而导致的任何损失或损害，我们不承担任何责任。": {
+    "zh-Hans": "本应用按\"原样\"和\"可用\"基础提供。我们不保证应用的不间断、及时、安全或无错误运行。对于因使用或无法使用本应用而导致的任何损失或损害，我们不承担任何责任。",
+    "en": "This app is provided \"as is\" and \"as available\". We do not guarantee uninterrupted, timely, secure, or error-free operation. We are not liable for any loss or damage.",
+    "ja": "本アプリは「現状有姿」で提供されます。当社は中断のない、安全な、エラーのない動作を保証しません。使用または使用不能に起因する損失や損害について一切責任を負いません。",
+    "ko": "본 앱은 \"있는 그대로\" 제공됩니다. 당사는 중단 없는, 안전한, 오류 없는 작동을 보증하지 않습니다. 사용 또는 불능으로 인한 손실에 대해 책임을 지지 않습니다.",
+    "fr": "L'Application est fournie « en l'état ». Nous ne garantissons pas un fonctionnement ininterrompu ou sans erreur. Nous déclinons toute responsabilité pour les pertes liées à son utilisation."
+  },
+  "本机免费离线使用，无需联网": {
+    "zh-Hans": "本机免费离线使用，无需联网",
+    "en": "Free offline use on device, no internet required",
+    "ja": "端末で無料オフライン使用、ネット不要",
+    "ko": "기기 무료 오フライン 사용, 네트워크 불필요",
+    "fr": "Utilisation gratuite hors ligne, sans Internet"
+  },
+  "条款修改": {
+    "zh-Hans": "条款修改",
+    "en": "Terms Modification",
+    "ja": "規約変更",
+    "ko": "약관 변경",
+    "fr": "Modifications"
+  },
+  "松手翻译": {
+    "zh-Hans": "松手翻译",
+    "en": "Release to Translate",
+    "ja": "離して翻訳",
+    "ko": "놓으면 번역",
+    "fr": "Relâchez pour traduire"
+  },
+  "极快（设备端推理）": {
+    "zh-Hans": "极快（设备端推理）",
+    "en": "Extremely fast (on-device inference)",
+    "ja": "超高速（デバイス上推論）",
+    "ko": "초고속 (기기 내 추론)",
+    "fr": "Très rapide (inférence locale)"
+  },
+  "查看完整隐私政策": {
+    "zh-Hans": "查看完整隐私政策",
+    "en": "View Full Privacy Policy",
+    "ja": "全文を表示",
+    "ko": "전체 보기",
+    "fr": "Voir la politique complète"
+  },
+  "核心特性": {
+    "zh-Hans": "核心特性",
+    "en": "Key Features",
+    "ja": "主な機能",
+    "ko": "주요 기능",
+    "fr": "Fonctionnalités"
+  },
+  "根据适用法律，您可能拥有以下权利：\\n\\n1. 访问您的个人信息。\\n\\n2. 更正不准确的信息。\\n\\n3. 删除您的个人信息。\\n\\n4. 撤回同意。\\n\\n5. 数据可携带性。\\n\\n要行使这些权利，请通过以下联系方式与我们联系。": {
+    "zh-Hans": "根据适用法律，您可能拥有以下权利：\n\n1. 访问您的个人信息。\n\n2. 更正不准确的信息。\n\n3. 删除您的个人信息。\n\n4. 撤回同意。\n\n5. 数据可携带性。\n\n要行使这些权利，请通过以下联系方式与我们联系。",
+    "en": "Under applicable law, you may have the following rights:\n\n1. Access your personal information.\n\n2. Correct inaccurate information.\n\n3. Delete your personal information.\n\n4. Withdraw consent.\n\n5. Data portability.\n\nTo exercise these rights, please contact us using the information below.",
+    "ja": "適用法に基づき、以下の権利を有する場合があります：\n\n1. 個人情報へのアクセス\n\n2. 不正確な情報の訂正\n\n3. 個人情報の削除\n\n4. 同意の撤回\n\n5. データポータビリティ\n\n権利行使は以下の連絡先までご連絡ください。",
+    "ko": "해당 법률에 따라 다음 권리가 있습니다:\n\n1. 개인정보 접근\n\n2. 부정확한 정보 정정\n\n3. 개인정보 삭제\n\n4. 동의 철회\n\n5. 데이터 이동성\n\n권리 행사는 아래 연락처로 문의하세요.",
+    "fr": "En vertu des lois applicables, vous pouvez :\n\n1. Accéder à vos informations\n\n2. Corriger les inexactitudes\n\n3. Supprimer vos informations\n\n4. Retirer votre consentement\n\n5. Portabilité des données\n\nContactez-nous pour exercer ces droits."
+  },
+  "模型": {
+    "zh-Hans": "模型",
+    "en": "Model",
+    "ja": "Model",
+    "ko": "Model",
+    "fr": "Model"
+  },
+  "模型 & 数据": {
+    "zh-Hans": "模型 & 数据",
+    "en": "Models & Data",
+    "ja": "モデル & データ",
+    "ko": "모델 & 데이터",
+    "fr": "Modèle & données"
+  },
+  "模型下载失败": {
+    "zh-Hans": "模型下载失败",
+    "en": "Model Download Failed",
+    "ja": "モデルDL失敗",
+    "ko": "모델 DL 실패",
+    "fr": "Échec du téléchargement"
+  },
+  "模型已就绪": {
+    "zh-Hans": "模型已就绪",
+    "en": "Model Ready",
+    "ja": "モデル準備完了",
+    "ko": "모델 준비 완료",
+    "fr": "Modèle prêt"
+  },
+  "模型未加载": {
+    "zh-Hans": "模型未加载",
+    "en": "Model Not Loaded",
+    "ja": "モデル未読込",
+    "ko": "모델 미로드",
+    "fr": "Modèle non chargé"
+  },
+  "模型管理": {
+    "zh-Hans": "模型管理",
+    "en": "Model Management",
+    "ja": "モデル管理",
+    "ko": "모델 관리",
+    "fr": "Gestion des modèles"
+  },
+  "模型管理（WiFi 下载推荐）": {
+    "zh-Hans": "模型管理（WiFi 下载推荐）",
+    "en": "Model Management (WiFi download recommended)",
+    "ja": "モデル管理（WiFi推奨）",
+    "ko": "모델 관리 (WiFi 권장)",
+    "fr": "Gestion (WiFi recommandé)"
+  },
+  "模型详情": {
+    "zh-Hans": "模型详情",
+    "en": "Model Details",
+    "ja": "モデル詳細",
+    "ko": "모델 상세",
+    "fr": "Détails du modèle"
+  },
+  "欢迎使用 VTM": {
+    "zh-Hans": "欢迎使用 VTM",
+    "en": "Welcome to VTM",
+    "ja": "VTMへようこそ",
+    "ko": "VTM에 오신 것을 환영합니다",
+    "fr": "Bienvenue sur VTM"
+  },
+  "正在下载": {
+    "zh-Hans": "正在下载",
+    "en": "Downloading",
+    "ja": "Downloading",
+    "ko": "Downloading",
+    "fr": "Downloading"
+  },
+  "正在聆听...": {
+    "zh-Hans": "正在聆听...",
+    "en": "Listening...",
+    "ja": "聴取中...",
+    "ko": "듣는 중...",
+    "fr": "Écoute..."
+  },
+  "正在识别文字...": {
+    "zh-Hans": "正在识别文字...",
+    "en": "Recognizing text...",
+    "ja": "テキスト認識中...",
+    "ko": "텍스트 인식 중...",
+    "fr": "Reconnaissance de texte..."
+  },
+  "法律信息": {
+    "zh-Hans": "法律信息",
+    "en": "Legal",
+    "ja": "法律情報",
+    "ko": "법률 정보",
+    "fr": "Informations légales"
+  },
+  "浅色模式": {
+    "zh-Hans": "浅色模式",
+    "en": "Light",
+    "ja": "ライトモード",
+    "ko": "라이트 모ード",
+    "fr": "Mode clair"
+  },
+  "深色模式": {
+    "zh-Hans": "深色模式",
+    "en": "Dark",
+    "ja": "ダークモード",
+    "ko": "다크 모ード",
+    "fr": "Mode sombre"
+  },
+  "清空": {
+    "zh-Hans": "清空",
+    "en": "Clear",
+    "ja": "クリア",
+    "ko": "비우기",
+    "fr": "Vider"
+  },
+  "清空历史": {
+    "zh-Hans": "清空历史",
+    "en": "Clear History",
+    "ja": "履歴を消去",
+    "ko": "기록 지우기",
+    "fr": "Effacer l'historique"
+  },
+  "清除所有模型缓存": {
+    "zh-Hans": "清除所有模型缓存",
+    "en": "Clear All Model Caches",
+    "ja": "全モデルキャッシュをクリア",
+    "ko": "모든 캐시 지우기",
+    "fr": "Vider le cache"
+  },
+  "清除缓存": {
+    "zh-Hans": "清除缓存",
+    "en": "Clear Cache",
+    "ja": "キャッシュをクリア",
+    "ko": "캐시 지우기",
+    "fr": "Vider le cache"
+  },
+  "清除翻译历史": {
+    "zh-Hans": "清除翻译历史",
+    "en": "Clear Translation History",
+    "ja": "翻訳履歴を消去",
+    "ko": "번역 기록 삭제",
+    "fr": "Effacer l'historique"
+  },
+  "源语言": {
+    "zh-Hans": "源语言",
+    "en": "Source Language",
+    "ja": "ソース言語",
+    "ko": "원본 언어",
+    "fr": "Langue source"
+  },
+  "激活": {
+    "zh-Hans": "激活",
+    "en": "Activate",
+    "ja": "アクティベーション",
+    "ko": "활성화",
+    "fr": "Activation"
+  },
+  "激活 VTM": {
+    "zh-Hans": "激活 VTM",
+    "en": "Activate VTM",
+    "ja": "VTMをアクティベート",
+    "ko": "VTM 활성화",
+    "fr": "Activer VTM"
+  },
+  "激活成功": {
+    "zh-Hans": "激活成功",
+    "en": "Activation Successful",
+    "ja": "アクティベーション成功",
+    "ko": "활성화 성공",
+    "fr": "Activation réussie"
+  },
+  "激活状态": {
+    "zh-Hans": "激活状态",
+    "en": "Activation Status",
+    "ja": "アクティベーション状態",
+    "ko": "활성화 상태",
+    "fr": "Statut d'activation"
+  },
+  "激活码": {
+    "zh-Hans": "激活码",
+    "en": "Activation Code",
+    "ja": "アクティベーションコード",
+    "ko": "활성화 코드",
+    "fr": "Code d'activation"
+  },
+  "激活码无效": {
+    "zh-Hans": "激活码无效",
+    "en": "Invalid Activation Code",
+    "ja": "無効なコード",
+    "ko": "유효하지 않은 코드",
+    "fr": "Code invalide"
+  },
+  "版本": {
+    "zh-Hans": "版本",
+    "en": "Version",
+    "ja": "バージョン",
+    "ko": "버전",
+    "fr": "Version"
+  },
+  "版本 1.0.0 (Build 1)": {
+    "zh-Hans": "版本 1.0.0 (Build 1)",
+    "en": "Version 1.0.0 (Build 1)",
+    "ja": "バージョン 1.0.0 (Build 1)",
+    "ko": "버전 1.0.0 (Build 1)",
+    "fr": "Version 1.0.0 (Build 1)"
+  },
+  "用 VTM 翻译": {
+    "zh-Hans": "用 VTM 翻译",
+    "en": "Translate with VTM",
+    "ja": "VTMで翻訳",
+    "ko": "VTM으로 번역",
+    "fr": "Traduire avec VTM"
+  },
+  "用户责任": {
+    "zh-Hans": "用户责任",
+    "en": "User Responsibilities",
+    "ja": "ユーザー責任",
+    "ko": "사용자 책임",
+    "fr": "Responsabilité"
+  },
+  "电话": {
+    "zh-Hans": "电话",
+    "en": "Phone",
+    "ja": "電話",
+    "ko": "전화",
+    "fr": "Téléphone"
+  },
+  "目标语言": {
+    "zh-Hans": "目标语言",
+    "en": "Target Language",
+    "ja": "ターゲット言語",
+    "ko": "대상 언어",
+    "fr": "Langue cible"
+  },
+  "知识产权": {
+    "zh-Hans": "知识产权",
+    "en": "Intellectual Property",
+    "ja": "知的財産",
+    "ko": "지식 재산권",
+    "fr": "Propriété intellectuelle"
+  },
+  "确认": {
+    "zh-Hans": "确认",
+    "en": "Confirm",
+    "ja": "確認",
+    "ko": "확인",
+    "fr": "Confirmer"
+  },
+  "确认清空": {
+    "zh-Hans": "确认清空",
+    "en": "Clear All",
+    "ja": "すべて消去",
+    "ko": "모두 지우기",
+    "fr": "Tout effacer"
+  },
+  "确认清除": {
+    "zh-Hans": "确认清除",
+    "en": "Confirm Clear",
+    "ja": "消去確認",
+    "ko": "삭제 확인",
+    "fr": "Confirmer"
+  },
+  "离线语音识别引擎": {
+    "zh-Hans": "离线语音识别引擎",
+    "en": "Offline Speech Recognition Engine",
+    "ja": "オフライン音声認識エンジン",
+    "ko": "오フライン 음성 인식 엔진",
+    "fr": "Moteur vocal hors ligne"
+  },
+  "空闲": {
+    "zh-Hans": "空闲",
+    "en": "Idle",
+    "ja": "アイドル",
+    "ko": "유휴",
+    "fr": "Inactif"
+  },
+  "立即激活": {
+    "zh-Hans": "立即激活",
+    "en": "Activate Now",
+    "ja": "今すぐアクティベート",
+    "ko": "지금 활성화",
+    "fr": "Activer maintenant"
+  },
+  "策略": {
+    "zh-Hans": "策略",
+    "en": "Strategy",
+    "ja": "戦略",
+    "ko": "전략",
+    "fr": "Stratégie"
+  },
+  "管理语音识别和翻译模型": {
+    "zh-Hans": "管理语音识别和翻译模型",
+    "en": "Manage speech recognition and translation models",
+    "ja": "音声認識・翻訳モデルを管理",
+    "ko": "음성 인식 및 번역 모델 관리",
+    "fr": "Gérer les modèles"
+  },
+  "类型": {
+    "zh-Hans": "类型",
+    "en": "Type",
+    "ja": "タイプ",
+    "ko": "유형",
+    "fr": "Type"
+  },
+  "精度": {
+    "zh-Hans": "精度",
+    "en": "Accuracy",
+    "ja": "精度",
+    "ko": "정확도",
+    "fr": "Précision"
+  },
+  "翻译": {
+    "zh-Hans": "翻译",
+    "en": "Translation",
+    "ja": "翻訳",
+    "ko": "번역",
+    "fr": "Traduction"
+  },
+  "翻译历史": {
+    "zh-Hans": "翻译历史",
+    "en": "Translation History",
+    "ja": "翻訳履歴",
+    "ko": "번역 기록",
+    "fr": "Historique de traduction"
+  },
+  "翻译历史已清空": {
+    "zh-Hans": "翻译历史已清空",
+    "en": "Translation history cleared",
+    "ja": "翻訳履歴をクリアしました",
+    "ko": "번역 기록이 지워졌습니다",
+    "fr": "Historique effacé"
+  },
+  "翻译后会自动保存在这里": {
+    "zh-Hans": "翻译后会自动保存在这里",
+    "en": "Translations will be saved here automatically",
+    "ja": "翻訳後ここに保存されます",
+    "ko": "번역 후 여기에 저장됩니다",
+    "fr": "Sauvegardé ici automatiquement"
+  },
+  "翻译后自动播放语音": {
+    "zh-Hans": "翻译后自动播放语音",
+    "en": "Auto-play Translation Voice",
+    "ja": "翻訳後に音声を自動再生",
+    "ko": "번역 후 음성 자동 재생",
+    "fr": "Lecture automatique après traduction"
+  },
+  "翻译失败": {
+    "zh-Hans": "翻译失败",
+    "en": "Translation Failed",
+    "ja": "翻訳失敗",
+    "ko": "번역 실패",
+    "fr": "Échec de traduction"
+  },
+  "翻译将显示在这里": {
+    "zh-Hans": "翻译将显示在这里",
+    "en": "Translation will appear here",
+    "ja": "翻訳がここに表示されます",
+    "ko": "번역이 여기에 표시됩니다",
+    "fr": "La traduction apparaîtra ici"
+  },
+  "翻译引擎释放内存后正在恢复\\n请稍候片刻": {
+    "zh-Hans": "翻译引擎释放内存后正在恢复\n请稍候片刻",
+    "en": "Restoring translation engine after memory release\nPlease wait",
+    "ja": "Restoring translation engine after memory release\nPlease wait",
+    "ko": "Restoring translation engine after memory release\nPlease wait",
+    "fr": "Restoring translation engine after memory release\nPlease wait"
+  },
+  "翻译结果": {
+    "zh-Hans": "翻译结果",
+    "en": "Translation",
+    "ja": "翻訳結果",
+    "ko": "번역 결과",
+    "fr": "Résultat"
+  },
+  "翻译设置": {
+    "zh-Hans": "翻译设置",
+    "en": "Translation Settings",
+    "ja": "翻訳設定",
+    "ko": "번역 설정",
+    "fr": "Paramètres de traduction"
+  },
+  "联系我们": {
+    "zh-Hans": "联系我们",
+    "en": "Contact Us",
+    "ja": "お問い合わせ",
+    "ko": "문의하기",
+    "fr": "Nous contacter"
+  },
+  "自动": {
+    "zh-Hans": "自动",
+    "en": "Auto",
+    "ja": "自動",
+    "ko": "자동",
+    "fr": "Auto"
+  },
+  "自动播放翻译结果": {
+    "zh-Hans": "自动播放翻译结果",
+    "en": "Auto-playback of translations",
+    "ja": "Auto-playback of translations",
+    "ko": "Auto-playback of translations",
+    "fr": "Auto-playback of translations"
+  },
+  "自动播放译文语音": {
+    "zh-Hans": "自动播放译文语音",
+    "en": "Auto-play Translation",
+    "ja": "Auto-play Translation",
+    "ko": "Auto-play Translation",
+    "fr": "Auto-play Translation"
+  },
+  "自动检测源语言": {
+    "zh-Hans": "自动检测源语言",
+    "en": "Auto-detect Source Language",
+    "ja": "ソース言語を自動検出",
+    "ko": "원본 언어 자동 감지",
+    "fr": "Détection auto de la langue"
+  },
+  "自动检测源语言功能将在后续版本中推出": {
+    "zh-Hans": "自动检测源语言功能将在后续版本中推出",
+    "en": "Auto-detect source language will be available in a future update",
+    "ja": "Auto-detect source language will be available in a future update",
+    "ko": "Auto-detect source language will be available in a future update",
+    "fr": "Auto-detect source language will be available in a future update"
+  },
+  "范围": {
+    "zh-Hans": "范围",
+    "en": "Scope",
+    "ja": "範囲",
+    "ko": "범위",
+    "fr": "Portée"
+  },
+  "蜂窝网络提醒": {
+    "zh-Hans": "蜂窝网络提醒",
+    "en": "Cellular Data Warning",
+    "ja": "モバイル通信の注意",
+    "ko": "셀룰러 데이터 경고",
+    "fr": "Avertissement données cellulaires"
+  },
+  "要翻译的文本": {
+    "zh-Hans": "要翻译的文本",
+    "en": "Text to Translate",
+    "ja": "Text to Translate",
+    "ko": "Text to Translate",
+    "fr": "Text to Translate"
+  },
+  "角色": {
+    "zh-Hans": "角色",
+    "en": "Role",
+    "ja": "役割",
+    "ko": "역할",
+    "fr": "Rôle"
+  },
+  "设备端模型": {
+    "zh-Hans": "设备端模型",
+    "en": "On-device Models",
+    "ja": "On-device Models",
+    "ko": "On-device Models",
+    "fr": "On-device Models"
+  },
+  "设备端神经网络翻译": {
+    "zh-Hans": "设备端神经网络翻译",
+    "en": "On-device neural network translation",
+    "ja": "On-device neural network translation",
+    "ko": "On-device neural network translation",
+    "fr": "On-device neural network translation"
+  },
+  "设备端翻译 ML Kit，利用设备算力进行本地翻译，速度极快且隐私安全。": {
+    "zh-Hans": "设备端翻译 ML Kit，利用设备算力进行本地翻译，速度极快且隐私安全。",
+    "en": "On-device ML Kit translation. Fast, private, and secure.",
+    "ja": "On-device ML Kit translation. Fast, private, and secure.",
+    "ko": "On-device ML Kit translation. Fast, private, and secure.",
+    "fr": "On-device ML Kit translation. Fast, private, and secure."
+  },
+  "设置": {
+    "zh-Hans": "设置",
+    "en": "Settings",
+    "ja": "設定",
+    "ko": "설정",
+    "fr": "Réglages"
+  },
+  "识别中": {
+    "zh-Hans": "识别中",
+    "en": "Recognizing",
+    "ja": "認識中",
+    "ko": "인식 중",
+    "fr": "Reconnaissance..."
+  },
+  "识别文字": {
+    "zh-Hans": "识别文字",
+    "en": "Recognize Text",
+    "ja": "Recognize Text",
+    "ko": "Recognize Text",
+    "fr": "Recognize Text"
+  },
+  "识别结果": {
+    "zh-Hans": "识别结果",
+    "en": "Recognition",
+    "ja": "Recognition",
+    "ko": "Recognition",
+    "fr": "Recognition"
+  },
+  "试用已到期": {
+    "zh-Hans": "试用已到期",
+    "en": "Trial Expired",
+    "ja": "トライアル期間終了",
+    "ko": "평가판 만료",
+    "fr": "Essai expiré"
+  },
+  "试用状态": {
+    "zh-Hans": "试用状态",
+    "en": "Trial Status",
+    "ja": "トライアル状態",
+    "ko": "평가판 상태",
+    "fr": "Statut de l'essai"
+  },
+  "详情": {
+    "zh-Hans": "详情",
+    "en": "Details",
+    "ja": "詳細",
+    "ko": "상세",
+    "fr": "Détails"
+  },
+  "语言": {
+    "zh-Hans": "语言",
+    "en": "Languages",
+    "ja": "言語",
+    "ko": "언어",
+    "fr": "Langue"
+  },
+  "语言对": {
+    "zh-Hans": "语言对",
+    "en": "Language Pair",
+    "ja": "Language Pair",
+    "ko": "Language Pair",
+    "fr": "Language Pair"
+  },
+  "语言更改": {
+    "zh-Hans": "语言更改",
+    "en": "Language Changed",
+    "ja": "Language Changed",
+    "ko": "Language Changed",
+    "fr": "Language Changed"
+  },
+  "语言更改将在下次启动应用时生效": {
+    "zh-Hans": "语言更改将在下次启动应用时生效",
+    "en": "Language change will take effect on next launch",
+    "ja": "Language change will take effect on next launch",
+    "ko": "Language change will take effect on next launch",
+    "fr": "Language change will take effect on next launch"
+  },
+  "语言离线翻译后备引擎": {
+    "zh-Hans": "语言离线翻译后备引擎",
+    "en": "Offline Translation Backup Engine",
+    "ja": "Offline Translation Backup Engine",
+    "ko": "Offline Translation Backup Engine",
+    "fr": "Offline Translation Backup Engine"
+  },
+  "语音合成": {
+    "zh-Hans": "语音合成",
+    "en": "Speech Synthesis",
+    "ja": "Speech Synthesis",
+    "ko": "Speech Synthesis",
+    "fr": "Speech Synthesis"
+  },
+  "语音翻译": {
+    "zh-Hans": "语音翻译",
+    "en": "Voice Translation",
+    "ja": "Voice Translation",
+    "ko": "Voice Translation",
+    "fr": "Voice Translation"
+  },
+  "语音设置": {
+    "zh-Hans": "语音设置",
+    "en": "Voice Settings",
+    "ja": "Voice Settings",
+    "ko": "Voice Settings",
+    "fr": "Voice Settings"
+  },
+  "语音识别": {
+    "zh-Hans": "语音识别",
+    "en": "Speech Recognition",
+    "ja": "Speech Recognition",
+    "ko": "Speech Recognition",
+    "fr": "Speech Recognition"
+  },
+  "语音识别权限": {
+    "zh-Hans": "语音识别权限",
+    "en": "Speech Recognition Permission",
+    "ja": "音声認識許可",
+    "ko": "음성 인식 권한",
+    "fr": "Autorisation vocale"
+  },
+  "语音识别模型未下载": {
+    "zh-Hans": "语音识别模型未下载",
+    "en": "Speech recognition model not downloaded",
+    "ja": "Speech recognition model not downloaded",
+    "ko": "Speech recognition model not downloaded",
+    "fr": "Speech recognition model not downloaded"
+  },
+  "说话人 A": {
+    "zh-Hans": "说话人 A",
+    "en": "Speaker A",
+    "ja": "話者A",
+    "ko": "화자 A",
+    "fr": "Interlocuteur A"
+  },
+  "说话人 B": {
+    "zh-Hans": "说话人 B",
+    "en": "Speaker B",
+    "ja": "話者B",
+    "ko": "화자 B",
+    "fr": "Interlocuteur B"
+  },
+  "请输入 12 位激活码以获取永久使用权": {
+    "zh-Hans": "请输入 12 位激活码以获取永久使用权",
+    "en": "Enter 12-digit activation code for permanent access",
+    "ja": "12桁のコードを入力してください",
+    "ko": "12자리 코드를 입력하세요",
+    "fr": "Entrez le code à 12 chiffres"
+  },
+  "请阅读并同意我们的隐私政策和使用条款以继续使用": {
+    "zh-Hans": "请阅读并同意我们的隐私政策和使用条款以继续使用",
+    "en": "Please read and agree to our Privacy Policy and Terms of Use",
+    "ja": "Please read and agree to our Privacy Policy and Terms of Use",
+    "ko": "Please read and agree to our Privacy Policy and Terms of Use",
+    "fr": "Please read and agree to our Privacy Policy and Terms of Use"
+  },
+  "请阅读并同意我们的隐私政策和使用条款以继续使用 VTM": {
+    "zh-Hans": "请阅读并同意我们的隐私政策和使用条款以继续使用 VTM",
+    "en": "Please read and agree to our Privacy Policy and Terms of Use to continue using VTM",
+    "ja": "VTMの利用を続けるには、プライバシーポリシーと利用規約を読み、同意してください",
+    "ko": "VTM을 계속 사용하려면 개인정보 처리방침과 이용약관을 읽고 동의하세요",
+    "fr": "Veuillez lire et accepter la politique et les conditions pour continuer"
+  },
+  "跟随系统": {
+    "zh-Hans": "跟随系统",
+    "en": "Follow System",
+    "ja": "システムに従う",
+    "ko": "시스템 따르기",
+    "fr": "Suivre le système"
+  },
+  "较慢（CPU 推理，短句 ~3-10s）": {
+    "zh-Hans": "较慢（CPU 推理，短句 ~3-10s）",
+    "en": "Slower (CPU inference, ~3-10s for short texts)",
+    "ja": "Slower (CPU inference, ~3-10s for short texts)",
+    "ko": "Slower (CPU inference, ~3-10s for short texts)",
+    "fr": "Slower (CPU inference, ~3-10s for short texts)"
+  },
+  "输入激活码": {
+    "zh-Hans": "输入激活码",
+    "en": "Enter Activation Code",
+    "ja": "コードを入力",
+    "ko": "코드 입력",
+    "fr": "Entrer le code"
+  },
+  "选择文字区域": {
+    "zh-Hans": "选择文字区域",
+    "en": "Select text region",
+    "ja": "Select text region",
+    "ko": "Select text region",
+    "fr": "Select text region"
+  },
+  "选择源语言": {
+    "zh-Hans": "选择源语言",
+    "en": "Select Source Language",
+    "ja": "ソース言語を選択",
+    "ko": "원본 언어 선택",
+    "fr": "Langue source"
+  },
+  "选择目标语言": {
+    "zh-Hans": "选择目标语言",
+    "en": "Select Target Language",
+    "ja": "ターゲット言語を選択",
+    "ko": "대상 언어 선택",
+    "fr": "Langue cible"
+  },
+  "通过使用 VTM 应用（以下简称\\\"应用\\\"），您同意受本使用条款的约束。如果您不同意本条款的任何部分，请勿使用本应用。": {
+    "zh-Hans": "通过使用 VTM 应用（以下简称\"应用\"），您同意受本使用条款的约束。如果您不同意本条款的任何部分，请勿使用本应用。",
+    "en": "By using VTM (\"the App\"), you agree to these Terms. If you disagree, do not use the App.",
+    "ja": "VTMアプリ（以下「本アプリ」）の使用により、本利用規約に拘束されることに同意したものとします。同意されない部分がある場合は使用しないでください。",
+    "ko": "VTM 앱(이하 \"본 앱\") 사용은 본 약관에 구속됨에 동의함을 의미합니다. 동의하지 않는 부분이 있으면 사용하지 마십시오.",
+    "fr": "En utilisant VTM (« l'Application »), vous acceptez ces Conditions. Si vous n'êtes pas d'accord, ne l'utilisez pas."
+  },
+  "通过电话直接联系": {
+    "zh-Hans": "通过电话直接联系",
+    "en": "Contact directly via phone",
+    "ja": "Contact directly via phone",
+    "ko": "Contact directly via phone",
+    "fr": "Contact directly via phone"
+  },
+  "速度": {
+    "zh-Hans": "速度",
+    "en": "Speed",
+    "ja": "Speed",
+    "ko": "Speed",
+    "fr": "Speed"
+  },
+  "邮箱：alexzhang@3dtiangong.com": {
+    "zh-Hans": "邮箱：alexzhang@3dtiangong.com",
+    "en": "Email: alexzhang@3dtiangong.com",
+    "ja": "Email: alexzhang@3dtiangong.com",
+    "ko": "Email: alexzhang@3dtiangong.com",
+    "fr": "Email: alexzhang@3dtiangong.com"
+  },
+  "邮箱：legal@vtm-app.com": {
+    "zh-Hans": "邮箱：azhang364@gmail.com",
+    "en": "Email: azhang364@gmail.com",
+    "ja": "Email: azhang364@gmail.com",
+    "ko": "Email: azhang364@gmail.com",
+    "fr": "Email: azhang364@gmail.com"
+  },
+  "邮箱：privacy@vtm-app.com": {
+    "zh-Hans": "邮箱：azhang364@gmail.com",
+    "en": "Email: azhang364@gmail.com",
+    "ja": "Email: azhang364@gmail.com",
+    "ko": "Email: azhang364@gmail.com",
+    "fr": "Email: azhang364@gmail.com"
+  },
+  "重新加载语音识别模型...": {
+    "zh-Hans": "重新加载语音识别模型...",
+    "en": "Reloading speech recognition model...",
+    "ja": "音声認識モデル再読込中...",
+    "ko": "모델 다시 로드 중...",
+    "fr": "Rechargement du modèle..."
+  },
+  "重置": {
+    "zh-Hans": "重置",
+    "en": "Reset",
+    "ja": "リセット",
+    "ko": "초기화",
+    "fr": "Réinitialiser"
+  },
+  "重置引导": {
+    "zh-Hans": "重置引导",
+    "en": "Reset Onboarding",
+    "ja": "Reset Onboarding",
+    "ko": "Reset Onboarding",
+    "fr": "Reset Onboarding"
+  },
+  "重置设置": {
+    "zh-Hans": "重置设置",
+    "en": "Reset Settings",
+    "ja": "設定をリセット",
+    "ko": "설정 초기화",
+    "fr": "Réinitialiser les paramètres"
+  },
+  "重试": {
+    "zh-Hans": "重试",
+    "en": "Retry",
+    "ja": "再試行",
+    "ko": "재시도",
+    "fr": "Réessayer"
+  },
+  "错误": {
+    "zh-Hans": "错误",
+    "en": "Error",
+    "ja": "エラー",
+    "ko": "오류",
+    "fr": "Erreur"
+  },
+  "长按翻译结果可收藏": {
+    "zh-Hans": "长按翻译结果可收藏",
+    "en": "Long-press translation to favorite",
+    "ja": "Long-press translation to favorite",
+    "ko": "Long-press translation to favorite",
+    "fr": "Long-press translation to favorite"
+  },
+  "隐私安全，数据不离开设备": {
+    "zh-Hans": "隐私安全，数据不离开设备",
+    "en": "Privacy-safe, data never leaves device",
+    "ja": "プライバシー保護、データは端末外に出ません",
+    "ko": "개인정보 보호, 데이터는 기기를 떠나지 않음",
+    "fr": "Confidentialité : données jamais hors de l'appareil"
+  },
+  "隐私政策": {
+    "zh-Hans": "隐私政策",
+    "en": "Privacy Policy",
+    "ja": "プライバシーポリシー",
+    "ko": "개인정보 처리방침",
+    "fr": "Politique de confidentialité"
+  },
+  "隐私政策与使用条款": {
+    "zh-Hans": "隐私政策与使用条款",
+    "en": "Privacy Policy & Terms of Use",
+    "ja": "プライバシーポリシーと利用規約",
+    "ko": "개인정보 처리방침 및 이용약관",
+    "fr": "Politique et conditions"
+  },
+  "需要下载语音识别模型": {
+    "zh-Hans": "需要下载语音识别模型",
+    "en": "Speech recognition model required",
+    "ja": "音声認識モデルのダウンロードが必要",
+    "ko": "음성 인식 모델 다운로드 필요",
+    "fr": "Modèle vocal à télécharger"
+  },
+  "需要翻译的文字内容": {
+    "zh-Hans": "需要翻译的文字内容",
+    "en": "Text content to translate",
+    "ja": "Text content to translate",
+    "ko": "Text content to translate",
+    "fr": "Text content to translate"
+  },
+  "需要访问您的麦克风以录制语音进行翻译": {
+    "zh-Hans": "需要访问您的麦克风以录制语音进行翻译",
+    "en": "Microphone access needed for voice translation",
+    "ja": "Microphone access needed for voice translation",
+    "ko": "Microphone access needed for voice translation",
+    "fr": "Microphone access needed for voice translation"
+  },
+  "需要语音识别功能来理解您说的话": {
+    "zh-Hans": "需要语音识别功能来理解您说的话",
+    "en": "Speech recognition needed to understand your speech",
+    "ja": "Speech recognition needed to understand your speech",
+    "ko": "Speech recognition needed to understand your speech",
+    "fr": "Speech recognition needed to understand your speech"
+  },
+  "项目介绍": {
+    "zh-Hans": "项目介绍",
+    "en": "About the Project",
+    "ja": "プロジェクト紹介",
+    "ko": "프로젝트 소개",
+    "fr": "À propos du projet"
+  },
+  "预下载": {
+    "zh-Hans": "预下载",
+    "en": "Pre-download",
+    "ja": "Pre-download",
+    "ko": "Pre-download",
+    "fr": "Pre-download"
+  },
+  "预下载 zh↔en 模型": {
+    "zh-Hans": "预下载 zh↔en 模型",
+    "en": "Pre-download zh↔en Model",
+    "ja": "zh↔enモデルを事前DL",
+    "ko": "zh↔en 모델 사전 DL",
+    "fr": "Pré-télécharger zh↔en"
+  },
+  "预下载模型": {
+    "zh-Hans": "预下载模型",
+    "en": "Pre-download Model",
+    "ja": "Pre-download Model",
+    "ko": "Pre-download Model",
+    "fr": "Pre-download Model"
+  },
+  "首次使用前自动下载": {
+    "zh-Hans": "首次使用前自动下载",
+    "en": "Auto-download before first use",
+    "ja": "Auto-download before first use",
+    "ko": "Auto-download before first use",
+    "fr": "Auto-download before first use"
+  },
+  "高精度，适合真实场景": {
+    "zh-Hans": "高精度，适合真实场景",
+    "en": "High accuracy, suitable for real-world scenarios",
+    "ja": "High accuracy, suitable for real-world scenarios",
+    "ko": "High accuracy, suitable for real-world scenarios",
+    "fr": "High accuracy, suitable for real-world scenarios"
+  },
+  "麦克风权限": {
+    "zh-Hans": "麦克风权限",
+    "en": "Microphone Permission",
+    "ja": "マイク許可",
+    "ko": "마이크 권한",
+    "fr": "Autorisation micro"
+  },
+  "发送反馈": {
+    "zh-Hans": "发送反馈",
+    "en": "Send Feedback",
+    "ja": "フィードバックを送信",
+    "ko": "피드백 보내기",
+    "fr": "Envoyer un avis"
+  },
+  "开源许可": {
+    "zh-Hans": "开源许可",
+    "en": "Open Source Licenses",
+    "ja": "オープンソースライセンス",
+    "ko": "오픈소스 라이선스",
+    "fr": "Licences Open Source"
+  },
+  "VTM 使用了以下开源组件。感谢所有开源贡献者。": {
+    "zh-Hans": "VTM 使用了以下开源组件。感谢所有开源贡献者。",
+    "en": "VTM uses the following open source components. Thank you to all contributors.",
+    "ja": "VTMは以下のオープンソースコンポーネントを使用しています。すべての貢献者に感謝します。",
+    "ko": "VTM은 다음 오픈소스 구성요소를 사용합니다. 모든 기여자에게 감사드립니다.",
+    "fr": "VTM utilise les composants open source suivants. Merci à tous les contributeurs."
+  },
+  "VTM 是一款完全离线的语音翻译应用。本隐私政策说明了我们如何处理您的数据。使用本应用即表示您同意本政策的条款。": {
+    "zh-Hans": "VTM 是一款完全离线的语音翻译应用。本隐私政策说明了我们如何处理您的数据。使用本应用即表示您同意本政策的条款。",
+    "en": "VTM is a fully offline voice translation app. This policy explains how we handle your data. By using this app, you agree to this policy.",
+    "ja": "VTMは完全オフラインの音声翻訳アプリです。本ポリシーはデータの取り扱いについて説明します。本アプリの使用により本ポリシーに同意したものとみなします。",
+    "ko": "VTM은 완전 오프라인 음성 번역 앱입니다. 본 정책은 데이터 처리 방식을 설명합니다. 본 앱 사용은 본 정책에 동의함을 의미합니다.",
+    "fr": "VTM est une application de traduction vocale entièrement hors ligne. Cette politique explique comment nous traitons vos données. En utilisant cette application, vous acceptez cette politique."
+  },
+  "数据收集与使用": {
+    "zh-Hans": "数据收集与使用",
+    "en": "Data Collection & Use",
+    "ja": "データ収集と使用",
+    "ko": "데이터 수집 및 사용",
+    "fr": "Collecte et utilisation des données"
+  },
+  "VTM 的核心理念是离线隐私保护：\n\n1. 语音数据：所有语音识别和处理均在您的设备本地完成，不会上传至任何服务器。\n\n2. 翻译历史：如果您选择保存翻译历史，相关记录仅存储在您的设备上，您可以随时删除。\n\n3. 模型下载：VTM 仅在下载翻译模型时需要网络连接，下载过程传输的是模型文件，不包含任何个人数据。\n\n4. 我们不会收集、出售或与任何第三方共享您的个人信息。": {
+    "zh-Hans": "VTM 的核心理念是离线隐私保护：\n\n1. 语音数据：所有语音识别和处理均在您的设备本地完成，不会上传至任何服务器。\n\n2. 翻译历史：如果您选择保存翻译历史，相关记录仅存储在您的设备上，您可以随时删除。\n\n3. 模型下载：VTM 仅在下载翻译模型时需要网络连接，下载过程传输的是模型文件，不包含任何个人数据。\n\n4. 我们不会收集、出售或与任何第三方共享您的个人信息。",
+    "en": "VTM's core principle is offline privacy:\n\n1. Voice Data: All speech recognition and processing happens locally on your device. Nothing is uploaded to any server.\n\n2. Translation History: If you choose to save history, records stay on your device only. You can delete them anytime.\n\n3. Model Downloads: VTM only needs internet to download translation models. This transfers model files only, no personal data.\n\n4. We do not collect, sell, or share your personal information with any third party.",
+    "ja": "VTMの基本理念はオフラインプライバシーです：\n\n1. 音声データ：すべての音声認識と処理はデバイス上でローカルに行われ、サーバーにはアップロードされません。\n\n2. 翻訳履歴：保存を選択した場合、記録はデバイスのみに保存され、いつでも削除できます。\n\n3. モデルダウンロード：翻訳モデルのDL時のみネット接続が必要で、モデルファイルのみ転送され、個人データは含まれません。\n\n4. 当社はお客様の個人情報を収集、販売、第三者と共有することは一切ありません。",
+    "ko": "VTM의 핵심 원칙은 오프라인 개인정보 보호입니다:\n\n1. 음성 데이터: 모든 음성 인식 및 처리는 기기에서 로컬로 이루어지며 어떤 서버에도 업로드되지 않습니다.\n\n2. 번역 기록: 저장을 선택하면 기록은 기기에만 보관되며 언제든지 삭제할 수 있습니다.\n\n3. 모델 다운로드: 번역 모델 DL 시에만 네트워크가 필요하며 모델 파일만 전송되고 개인 데이터는 포함되지 않습니다.\n\n4. 당사는 귀하의 개인정보를 수집, 판매 또는 제3자와 공유하지 않습니다.",
+    "fr": "Le principe fondamental de VTM est la confidentialité hors ligne :\n\n1. Données vocales : toute la reconnaissance et le traitement se font localement sur votre appareil. Rien n'est téléchargé.\n\n2. Historique : si vous choisissez de sauvegarder, les enregistrements restent sur votre appareil. Supprimez-les à tout moment.\n\n3. Téléchargements : VTM n'a besoin d'Internet que pour télécharger les modèles. Seuls les fichiers de modèle sont transférés, sans données personnelles.\n\n4. Nous ne collectons, ne vendons ni ne partageons vos informations personnelles avec aucun tiers."
+  },
+  "数据存储": {
+    "zh-Hans": "数据存储",
+    "en": "Data Storage",
+    "ja": "データ保存",
+    "ko": "데이터 저장",
+    "fr": "Stockage des données"
+  },
+  "您的所有数据（语音、翻译记录、设置偏好）均仅存储在您的设备本地。VTM 不使用任何云端存储服务。卸载应用将永久删除所有数据。": {
+    "zh-Hans": "您的所有数据（语音、翻译记录、设置偏好）均仅存储在您的设备本地。VTM 不使用任何云端存储服务。卸载应用将永久删除所有数据。",
+    "en": "All your data (voice, translation history, preferences) is stored only on your device. VTM uses no cloud storage. Uninstalling the app permanently deletes all data.",
+    "ja": "すべてのデータ（音声、翻訳履歴、設定）はデバイスにのみ保存されます。VTMはクラウドストレージを一切使用しません。アプリをアンインストールすると全データが完全に削除されます。",
+    "ko": "모든 데이터(음성, 번역 기록, 설정)는 기기에만 저장됩니다. VTM은 클라우드 저장소를 전혀 사용하지 않습니다. 앱을 삭제하면 모든 데이터가 영구적으로 삭제됩니다.",
+    "fr": "Toutes vos données (voix, historique, préférences) sont stockées uniquement sur votre appareil. VTM n'utilise aucun stockage cloud. La désinstallation supprime définitivement toutes les données."
+  },
+  "因为所有数据均在设备本地处理且不连接互联网，您的数据安全由您的设备本身保障。我们无法访问、也不存储您的任何个人数据。": {
+    "zh-Hans": "因为所有数据均在设备本地处理且不连接互联网，您的数据安全由您的设备本身保障。我们无法访问、也不存储您的任何个人数据。",
+    "en": "Since all data is processed locally and never connects to the internet, your data security is ensured by your device itself. We cannot and do not access or store any of your personal data.",
+    "ja": "すべてのデータはデバイス上でローカル処理されインターネットに接続しないため、データセキュリティはお客様のデバイス自体によって保証されます。当社はお客様の個人データにアクセスすることも保存することもできません。",
+    "ko": "모든 데이터가 기기에서 로컬로 처리되고 인터넷에 연결되지 않으므로 데이터 보안은 기기 자체로 보장됩니다. 당사는 귀하의 개인 데이터에 접근하거나 저장할 수 없습니다.",
+    "fr": "Comme toutes les données sont traitées localement sans connexion Internet, la sécurité est assurée par votre appareil. Nous ne pouvons ni n'accédons à vos données personnelles."
+  },
+  "您可以随时：\n\n1. 在设备设置中撤销麦克风权限\n\n2. 在应用中删除翻译历史\n\n3. 卸载应用以永久删除所有数据\n\n如有任何隐私问题，请通过以下联系方式与我们联系。": {
+    "zh-Hans": "您可以随时：\n\n1. 在设备设置中撤销麦克风权限\n\n2. 在应用中删除翻译历史\n\n3. 卸载应用以永久删除所有数据\n\n如有任何隐私问题，请通过以下联系方式与我们联系。",
+    "en": "You can at any time:\n\n1. Revoke microphone permission in device Settings\n\n2. Delete translation history in the app\n\n3. Uninstall the app to permanently delete all data\n\nFor privacy questions, contact us below.",
+    "ja": "いつでも以下が可能です：\n\n1. デバイス設定でマイク権限を取り消す\n\n2. アプリ内で翻訳履歴を削除する\n\n3. アプリをアンインストールして全データを完全削除\n\nプライバシーに関するご質問は以下までご連絡ください。",
+    "ko": "언제든지 다음을 할 수 있습니다:\n\n1. 기기 설정에서 마이크 권한 철회\n\n2. 앱에서 번역 기록 삭제\n\n3. 앱을 삭제하여 모든 데이터 영구 제거\n\n개인정보 관련 문의는 아래로 연락하세요.",
+    "fr": "Vous pouvez à tout moment :\n\n1. Révoquer l'autorisation du micro dans les Réglages\n\n2. Supprimer l'historique dans l'application\n\n3. Désinstaller pour tout supprimer définitivement\n\nPour toute question, contactez-nous."
+  },
+  "我们可能会不时更新本隐私政策。我们会通过应用内通知的方式告知您任何重大变更。建议您定期查看本政策以了解最新信息。": {
+    "zh-Hans": "我们可能会不时更新本隐私政策。我们会通过应用内通知的方式告知您任何重大变更。建议您定期查看本政策以了解最新信息。",
+    "en": "We may update this policy from time to time. We will notify you of significant changes via in-app notification. Please check this policy periodically.",
+    "ja": "当社は本ポリシーを随時更新することがあります。重要な変更はアプリ内通知でお知らせします。定期的なご確認をお勧めします。",
+    "ko": "당사는 본 정책을 수시로 업데이트할 수 있습니다. 중요한 변경은 앱 내 알림으로 알려드립니다. 정기적인 확인을 권장합니다.",
+    "fr": "Nous pouvons mettre à jour cette politique. Les changements importants seront notifiés dans l'application. Consultez-la régulièrement."
+  },
+  "VTM (Voice Translation Mate) 是一款完全离线的语音翻译工具，支持实时语音识别、多语言翻译和语音合成。无需网络连接，所有数据处理均在本地完成，确保隐私安全。": {
+    "zh-Hans": "VTM (Voice Translation Mate) 是一款完全离线的语音翻译工具，支持实时语音识别、多语言翻译和语音合成。无需网络连接，所有数据处理均在本地完成，确保隐私安全。",
+    "en": "VTM (Voice Translation Mate) is a fully offline voice translation tool supporting real-time speech recognition, multilingual translation, and speech synthesis. No network needed, all processing happens locally to ensure privacy.",
+    "ja": "VTM (Voice Translation Mate) は完全オフラインの音声翻訳ツールで、リアルタイム音声認識、多言語翻訳、音声合成に対応。ネットワーク不要、すべての処理は端末上で行われプライバシーを保護します。",
+    "ko": "VTM (Voice Translation Mate)은 완전 오프라인 음성 번역 도구로 실시간 음성 인식, 다국어 번역, 음성 합성을 지원합니다. 네트워크 불필요, 모든 처리는 기기에서 이루어져 개인정보를 보호합니다.",
+    "fr": "VTM (Voice Translation Mate) est un outil de traduction vocale entièrement hors ligne prenant en charge la reconnaissance vocale en temps réel, la traduction multilingue et la synthèse vocale. Aucun réseau requis, tout le traitement est local."
+  },
+  "本应用按\"原样\"和\"可用\"基础提供。我们不保证应用的不间断、及时、安全或无错误运行。对于因使用或无法使用本应用而导致的任何损失或损害，我们不承担任何责任。": {
+    "zh-Hans": "本应用按\"原样\"和\"可用\"基础提供。我们不保证应用的不间断、及时、安全或无错误运行。对于因使用或无法使用本应用而导致的任何损失或损害，我们不承担任何责任。",
+    "en": "This app is provided \"as is\" and \"as available\". We do not guarantee uninterrupted, timely, secure, or error-free operation. We are not liable for any loss or damage resulting from use or inability to use this app.",
+    "ja": "本アプリは「現状有姿」で提供されます。当社は中断のない、安全な、エラーのない動作を保証しません。使用または使用不能に起因する損失や損害について一切責任を負いません。",
+    "ko": "본 앱은 \"있는 그대로\" 제공됩니다. 당사는 중단 없는, 안전한, 오류 없는 작동을 보증하지 않습니다. 사용 또는 불능으로 인한 손실에 대해 책임을 지지 않습니다.",
+    "fr": "Cette application est fournie « en l'état ». Nous ne garantissons pas un fonctionnement ininterrompu ou sans erreur. Nous déclinons toute responsabilité pour les pertes liées à son utilisation."
+  },
+  "通过使用 VTM 应用（以下简称\"应用\"），您同意受本使用条款的约束。如果您不同意本条款的任何部分，请勿使用本应用。": {
+    "zh-Hans": "通过使用 VTM 应用（以下简称\"应用\"），您同意受本使用条款的约束。如果您不同意本条款的任何部分，请勿使用本应用。",
+    "en": "By using the VTM app (\"the App\"), you agree to be bound by these Terms of Use. If you disagree with any part, do not use the App.",
+    "ja": "VTMアプリ（以下「本アプリ」）の使用により、本利用規約に拘束されることに同意したものとします。同意されない部分がある場合は使用しないでください。",
+    "ko": "VTM 앱(\"본 앱\") 사용은 본 약관에 구속됨에 동의함을 의미합니다. 동의하지 않는 부분이 있으면 사용하지 마십시오.",
+    "fr": "En utilisant VTM (« l'Application »), vous acceptez ces Conditions. Si vous n'êtes pas d'accord, ne l'utilisez pas."
+  },
+  "您同意：\n\n1. 不将本应用用于任何非法目的。\n\n2. 不干扰或破坏应用的正常运行。\n\n3. 不尝试未经授权访问我们的系统或网络。\n\n4. 对您使用本应用的行为承担全部责任。": {
+    "zh-Hans": "您同意：\n\n1. 不将本应用用于任何非法目的。\n\n2. 不干扰或破坏应用的正常运行。\n\n3. 不尝试未经授权访问我们的系统或网络。\n\n4. 对您使用本应用的行为承担全部责任。",
+    "en": "You agree to:\n\n1. Not use the App for any unlawful purpose.\n\n2. Not interfere with or disrupt the App's normal operation.\n\n3. Not attempt unauthorized access to our systems.\n\n4. Assume full responsibility for your use of the App.",
+    "ja": "お客様は以下に同意します：\n\n1. 本アプリを違法目的で使用しない\n\n2. 通常動作を妨害・破壊しない\n\n3. システムへの不正アクセスを試みない\n\n4. 使用に関する全責任を負う",
+    "ko": "귀하는 다음에 동의합니다:\n\n1. 불법적 목적으로 사용하지 않음\n\n2. 정상 작동을 방해하지 않음\n\n3. 무단 접근을 시도하지 않음\n\n4. 사용에 대한 모든 책임을 짐",
+    "fr": "Vous acceptez de :\n\n1. Ne pas utiliser l'App à des fins illégales\n\n2. Ne pas perturber son fonctionnement\n\n3. Ne pas tenter d'accès non autorisé\n\n4. Assumer l'entière responsabilité"
+  },
+  "如果您对本隐私政策或使用条款有任何疑问，请通过以下方式联系我们：": {
+    "zh-Hans": "如果您对本隐私政策或使用条款有任何疑问，请通过以下方式联系我们：",
+    "en": "If you have any questions about this Privacy Policy or Terms of Use, please contact us at:",
+    "ja": "本ポリシーまたは利用規約に関するご質問は以下までご連絡ください：",
+    "ko": "본 정책 또는 약관에 대한 문의는 아래로 연락하세요:",
+    "fr": "Pour toute question sur cette politique ou ces conditions, contactez-nous :"
+  },
+  "请在系统设置中允许 VTM 访问麦克风以使用语音翻译功能。": {
+    "zh-Hans": "请在系统设置中允许 VTM 访问麦克风以使用语音翻译功能。",
+    "en": "Please allow VTM to access the microphone in System Settings to use voice translation.",
+    "ja": "システム設定でVTMのマイクへのアクセスを許可してください。",
+    "ko": "시스템 설정에서 VTM의 마이크 접근을 허용해 주세요.",
+    "fr": "Veuillez autoriser VTM à accéder au microphone dans les Réglages système."
+  },
+  "VTM 需要访问麦克风以进行语音翻译。\n所有音频仅在本地设备处理，不会上传至任何服务器。": {
+    "zh-Hans": "VTM 需要访问麦克风以进行语音翻译。\n所有音频仅在本地设备处理，不会上传至任何服务器。",
+    "en": "VTM needs microphone access for voice translation.\nAll audio is processed locally on your device and never uploaded to any server.",
+    "ja": "VTMは音声翻訳のためにマイクへのアクセスが必要です。\nすべての音声はデバイス上でローカルに処理され、サーバーにはアップロードされません。",
+    "ko": "VTM은 음성 번역을 위해 마이크 접근이 필요합니다.\n모든 오디오는 기기에서 로컬로 처리되며 어떤 서버에도 업로드되지 않습니다.",
+    "fr": "VTM a besoin d'accéder au microphone pour la traduction vocale.\nTout l'audio est traité localement et jamais téléchargé."
+  },
+  "麦克风未开启": {
+    "zh-Hans": "麦克风未开启",
+    "en": "Microphone Disabled",
+    "ja": "マイクがオフ",
+    "ko": "마이크 꺼짐",
+    "fr": "Micro désactivé"
+  },
+  "松开取消": {
+    "zh-Hans": "松开取消",
+    "en": "Release to Cancel",
+    "ja": "離してキャンセル",
+    "ko": "놓으면 취소",
+    "fr": "Relâcher pour annuler"
+  },
+  "上滑取消": {
+    "zh-Hans": "上滑取消",
+    "en": "Swipe Up to Cancel",
+    "ja": "上にスワイプでキャンセル",
+    "ko": "위로 스와이프 취소",
+    "fr": "Glisser vers le haut pour annuler"
+  },
+  "所有数据仅存储在本地设备": {
+    "zh-Hans": "所有数据仅存储在本地设备",
+    "en": "All data stored locally on your device only",
+    "ja": "すべてのデータは端末にのみ保存",
+    "ko": "모든 데이터는 기기에만 저장",
+    "fr": "Toutes les données stockées localement"
+  },
+  "不收集、不出售、不共享个人数据": {
+    "zh-Hans": "不收集、不出售、不共享个人数据",
+    "en": "No data collection, sale, or sharing",
+    "ja": "データの収集・販売・共有なし",
+    "ko": "데이터 수집, 판매, 공유 없음",
+    "fr": "Aucune collecte, vente ou partage de données"
+  },
+  "邮箱：azhang364@gmail.com": {
+    "zh-Hans": "邮箱：azhang364@gmail.com",
+    "en": "Email: azhang364@gmail.com",
+    "ja": "メール：azhang364@gmail.com",
+    "ko": "이메일: azhang364@gmail.com",
+    "fr": "Email : azhang364@gmail.com"
+  },
+  "公司网站：https://www.3dtobe.com/VTM": {
+    "zh-Hans": "公司网站：https://www.3dtobe.com/VTM",
+    "en": "Website: https://www.3dtobe.com/VTM",
+    "ja": "Webサイト：https://www.3dtobe.com/VTM",
+    "ko": "웹사이트: https://www.3dtobe.com/VTM",
+    "fr": "Site web : https://www.3dtobe.com/VTM"
+  },
+  "模型加载中... %d 秒": {
+    "zh-Hans": "模型加载中... %d 秒",
+    "en": "Loading model... %d sec",
+    "ja": "モデル読込中... %d秒",
+    "ko": "모델 로드 중... %d초",
+    "fr": "Chargement du modèle... %d s"
+  },
+  "模型加载成功 ✓": {
+    "zh-Hans": "模型加载成功 ✓",
+    "en": "Model loaded ✓",
+    "ja": "モデル読込完了 ✓",
+    "ko": "모델 로드 완료 ✓",
+    "fr": "Modèle chargé ✓"
+  },
+  "首次加载大约需要 15 秒，请耐心等待": {
+    "zh-Hans": "首次加载大约需要 15 秒，请耐心等待",
+    "en": "First load takes about 15 seconds, please wait",
+    "ja": "初回読込には約15秒かかります。しばらくお待ちください",
+    "ko": "최초 로드에 약 15초 소요됩니다. 잠시만 기다려 주세요",
+    "fr": "Le premier chargement prend environ 15 secondes, veuillez patienter"
+  }
+}

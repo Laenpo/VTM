@@ -1,0 +1,367 @@
+"200 种语言间互译" = "200言語間の相互翻訳";
+"200 语言离线翻译后备引擎" = "200言語オフライン翻訳バックアップ";
+"437-616-3666" = "437-616-3666";
+"60+ 语言，含中英日韩等" = "60以上の言語、中日英韓などを含む";
+"Google ML Kit" = "Google ML Kit";
+"Google 设备端翻译 SDK，利用设备算力进行本地翻译，速度极快且隐私安全。" = "Google on-device translation SDK. Fast, private, and secure on-device translation.";
+"MIT 开源" = "MIT オープンソース";
+"ML Kit" = "ML Kit";
+"ML Kit (待下载)" = "ML Kit (ダウンロード待ち)";
+"ML Kit · 下载中" = "ML Kit · ダウンロード中";
+"ML Kit 详情" = "ML Kit 詳細";
+"Meta AI 的多语言翻译模型，支持 200 种语言。VTM 使用 ONNX Runtime 进行设备端推理。" = "Meta AI multilingual translation model supporting 200 languages. VTM uses ONNX Runtime for on-device inference.";
+"Metal / Core ML" = "Metal / Core ML";
+"NLLB · 加载中" = "NLLB · 読込中";
+"NLLB · 备用" = "NLLB · バックアップ";
+"NLLB · 未加载" = "NLLB · 未読込";
+"NLLB 后备" = "NLLB バックアップ";
+"NLLB-200" = "NLLB-200";
+"NLLB-200 仅当 ML Kit 不支持时按需加载" = "NLLB-200はML Kit未対応時にオンデマンドで読み込み";
+"NLLB-200 的多语言翻译模型，支持 200 种语言。使用 ONNX Runtime 进行设备端推理。" = "NLLB-200 multilingual model supporting 200 languages. ONNX Runtime for on-device inference.";
+"NLLB-200 详情" = "NLLB 詳細";
+"OpenAI 开源的高精度语音识别模型，由 ggerganov/whisper.cpp 移植到 C/C++。" = "OpenAI open-source high-accuracy speech recognition model, ported to C/C++ by ggerganov/whisper.cpp.";
+"Siri 快捷指令" = "Siri ショートカット";
+"Siri 集成" = "Siri ショートカット";
+"VTM — 离线语音翻译 · SwiftUI + whisper.cpp" = "VTM — Offline Voice Translation · SwiftUI + whisper.cpp";
+"VTM 是一款完全离线的语音翻译工具，支持实时语音识别、多语言翻译和语音合成。无需网络连接，所有数据处理均在本地完成，确保隐私安全。" = "VTM is a fully offline voice translator supporting real-time speech recognition, multilingual translation, and speech synthesis. All processing is local, ensuring privacy.";
+"VTM 是一款语音翻译应用，允许用户通过语音输入进行实时翻译。我们保留随时修改或终止服务的权利，无需事先通知。" = "VTMは音声入力によるリアルタイム翻訳を可能にする音声翻訳アプリです。当社は事前通知なしにいつでもサービスを変更または終了する権利を留保します。";
+"VTM 语音翻译" = "VTM 音声翻訳";
+"VTM 默认翻译引擎" = "VTM デフォルト翻訳エンジン";
+"VTM（以下简称\"我们\"）非常重视您的隐私保护。本隐私政策说明了我们如何收集、使用、存储和保护您的个人信息。使用本应用即表示您同意本政策的条款。" = "VTM (\\\"we\\\") values your privacy. This policy explains how we collect, use, store, and protect your personal information. By using this app, you agree to this policy.";
+"Whisper" = "Whisper";
+"Whisper 加载失败，请重试" = "Whisper 読込失敗、再試行してください";
+"Whisper 模型 (~466 MB) 用于离线语音识别\n下载后即可开始使用" = "Whisper model (~466 MB) for offline speech recognition\\\\
+Download to get started";
+"Whisper 详情" = "Whisper 詳細";
+"distilled-600M (INT8 量化)" = "distilled-600M (INT8 quantized)";
+"zh ↔ en 模型" = "中国語↔英語モデル";
+"~30 MB / 语言对" = "~30 MB / 言語ペア";
+"~940 MB（4个文件）" = "~940 MB（4ファイル）";
+"© 2026 三维天工 (3dtobe)" = "© 2026 3D Tiangong (3dtobe)";
+"三维天工 (3dtobe)" = "3D Tiangong (3dtobe)";
+"三维天工 · 离线语音翻译" = "3dtobe · オフライン音声翻訳";
+"下一步" = "次へ";
+"下载" = "ダウンロード";
+"下载中" = "ダウンロード中";
+"下载全部" = "すべてダウンロード";
+"下载失败" = "ダウンロード失敗";
+"下载将消耗流量" = "ダウンロードはデータ通信量を消費します";
+"不同意并退出" = "同意せずに終了";
+"中文" = "中国語";
+"主力" = "メイン";
+"主力翻译" = "Primary Translation";
+"主力翻译引擎 · Google 设备端" = "メイン翻訳エンジン · Google端末";
+"主力翻译引擎 · 设备端" = "Primary Engine · On-device";
+"仅当 ML Kit 不支持时按需加载" = "Loaded on-demand when ML Kit unavailable";
+"仍然下载" = "Download Anyway";
+"你想翻译什么？" = "What would you like to translate?";
+"使用条款" = "利用規約";
+"使用蜂窝网络" = "Using Cellular";
+"使用蜂窝网络 — 下载将消耗流量" = "Using Cellular — Downloads will use data";
+"保存失败" = "Save Failed";
+"保存翻译历史" = "Save Translation History";
+"信息使用" = "情報の使用";
+"信息共享" = "情報共有";
+"信息收集" = "情報収集";
+"儿童隐私" = "児童のプライバシー";
+"免责声明" = "免責事項";
+"公司" = "Company";
+"关于" = "について";
+"关于 VTM" = "VTMについて";
+"关于与支持" = "About & Support";
+"关闭" = "閉じる";
+"切换角色" = "Switch Speaker";
+"删除" = "削除";
+"删除模型" = "モデルを削除";
+"前往设置" = "Go to Settings";
+"前往设置下载模型" = "設定でモデルをダウンロード";
+"剩余 %d 天免费试用" = "%d days remaining in trial";
+"加载" = "Loading";
+"加载中" = "Loading";
+"协议" = "License";
+"去下载" = "Download";
+"反馈" = "Feedback";
+"取消" = "キャンセル";
+"可放心下载" = "Safe to download";
+"同意并继续" = "同意して続ける";
+"后备" = "バックアップ";
+"后备引擎，仅 ML Kit 不支持时使用" = "Backup engine, used only when ML Kit is unsupported";
+"后备翻译" = "Backup Translation";
+"备用翻译模型加载中..." = "バックアップ翻訳モデル読込中...";
+"备用翻译模型未下载" = "バックアップ翻訳モデル未ダウンロード";
+"备用翻译模型未加载" = "バックアップ翻訳モデル未読込";
+"复制译文" = "Copy Translation";
+"外观" = "外観";
+"外观模式" = "外観モード";
+"多语言支持（中英日韩等）" = "Multilingual support (CN, EN, JP, KR, etc.)";
+"多语言自动检测" = "多言語自動検出";
+"大小" = "Size";
+"好的" = "OK";
+"如有问题或建议，请随时通过上方电话联系开发者。" = "For questions or suggestions, please contact the developer via phone above.";
+"如果您对本使用条款有任何疑问，请通过以下方式联系我们：\n\n邮箱：legal@vtm-app.com" = "For questions about these Terms of Use, please contact us at:\\\\
+\\\\
+Email: legal@vtm-app.com";
+"如果您对本隐私政策或使用条款有任何疑问，请通过以下方式联系我们：\n\n邮箱：privacy@vtm-app.com" = "For questions about our Privacy Policy or Terms of Use, please contact us at:\\\\
+\\\\
+Email: privacy@vtm-app.com";
+"如果您对本隐私政策有任何疑问或关切，请通过以下方式联系我们：" = "For questions about this Privacy Policy, contact us at:";
+"如果您对本隐私政策有任何疑问或关切，请通过以下方式联系我们：\n\n邮箱：privacy@vtm-app.com" = "For questions or concerns about this Privacy Policy, please contact us at:\\\\
+\\\\
+Email: privacy@vtm-app.com";
+"完全本地离线，无需网络" = "Fully local offline, no network required";
+"完全离线，无需网络连接" = "完全オフライン、ネットワーク接続不要";
+"完成" = "完了";
+"实时语音识别与翻译" = "Real-time speech recognition & translation";
+"对 Siri 说「用VTM翻译」即可快速翻译文本" = "Say \\\\\\\"Translate with VTM\\\\\\\" to Siri to quickly translate text";
+"对话" = "Conversation";
+"对话模式" = "会話モード";
+"将删除全部 %d 条翻译记录，此操作不可撤销。" = "This will delete all %d translation records. This action cannot be undone.";
+"将删除所有已下载的模型文件，需要重新下载才能使用。确定继续吗？" = "This will delete all downloaded model files. You will need to download again. Continue?";
+"将删除所有已下载的模型文件，需重新下载。" = "All downloaded model files will be deleted. Re-download required.";
+"将文本粘贴到 VTM 翻译输入框中，方便直接查看翻译结果或朗读。" = "Paste text into VTM to view translation or read aloud.";
+"将永久删除所有翻译记录，此操作不可撤销。" = "This will permanently delete all translation history. This cannot be undone.";
+"已下载" = "ダウンロード済";
+"已保存 %d 条记录" = "%d records saved";
+"已加载" = "読込済";
+"已取消收藏" = "Removed from favorites";
+"已复制" = "コピーしました";
+"已就绪" = "Ready";
+"已清空历史" = "History Cleared";
+"已清除所有模型缓存" = "All model caches cleared";
+"已激活 ✓" = "アクティベート済 ✓";
+"已连接" = "Connected";
+"已连接 Wi-Fi — 可放心下载" = "Wi-Fi接続済 — 安全にダウンロード可";
+"已重置" = "Reset Complete";
+"已重置引导流程" = "Onboarding reset complete";
+"应用语言" = "アプリ言語";
+"开发者" = "Developer";
+"开发者信息" = "開発者情報";
+"开始" = "開始";
+"开源的高精度语音识别模型，由 OpenAI 移植到 C/C++。" = "Open-source high-accuracy speech recognition model, ported to C/C++ by OpenAI.";
+"引言" = "はじめに";
+"张恒郡" = "Zhang Hengjun";
+"当前使用蜂窝网络，下载大模型可能消耗大量流量。建议连接 Wi-Fi 后再下载。" = "現在モバイルデータ通信を使用中です。大規模モデルのDLは大量のデータを消費します。Wi-Fi接続をお勧めします。";
+"录音启动失败" = "Recording failed to start";
+"待开发" = "Coming Soon";
+"必需" = "必須";
+"必需品" = "必需品";
+"您同意：\n\n1. 不将本应用用于任何非法目的。\n\n2. 不干扰或破坏应用的正常运行。\n\n3. 不尝试未经授权访问我们的系统或网络。\n\n4. 对您使用本应用的行为承担全部责任。" = "You agree to:\\\\
+\\\\
+1. Not use the app for any unlawful purpose.\\\\
+\\\\
+2. Not interfere with or disrupt the app's normal operation.\\\\
+\\\\
+3. Not attempt unauthorized access to our systems or networks.\\\\
+\\\\
+4. Assume full responsibility for your use of the app.";
+"您的数据将被安全存储" = "Your data will be stored securely";
+"您的智能语音翻译助手" = "あなたのスマート音声翻訳アシスタント";
+"您的权利" = "お客様の権利";
+"感谢您的支持！VTM 已永久激活。" = "サポートありがとう！VTMは永続的にアクティベートされました。";
+"我们不会出售您的个人信息。我们可能在以下情况下共享您的信息：\n\n1. 经您同意：在您同意的情况下，我们可能与第三方共享您的信息。\n\n2. 服务提供商：我们可能与帮助我们从事实翻译服务的服务提供商共享信息。\n\n3. 法律要求：如果法律要求或为了保护我们的权利，我们可能会披露您的信息。" = "We do not sell your personal information. We may share your information in the following circumstances:\\\\
+\\\\
+1. With Your Consent: We may share with third parties with your consent.\\\\
+\\\\
+2. Service Providers: We may share with providers assisting our translation services.\\\\
+\\\\
+3. Legal Requirements: We may disclose if required by law or to protect our rights.";
+"我们使用收集的信息用于以下目的：\n\n1. 提供、维护和改进我们的翻译服务。\n\n2. 处理您的语音输入并进行翻译。\n\n3. 开发新功能和服务。\n\n4. 保护我们的服务和用户。" = "We use collected information for the following purposes:\\\\
+\\\\
+1. Provide, maintain, and improve our translation services.\\\\
+\\\\
+2. Process your voice input and perform translation.\\\\
+\\\\
+3. Develop new features and services.\\\\
+\\\\
+4. Protect our services and users.";
+"我们使用本地离线翻译引擎" = "We use local offline translation engines";
+"我们保留随时修改本使用条款的权利。修改后的条款将在应用内发布。您继续使用本应用即表示您接受修改后的条款。" = "当社はいつでも本利用規約を変更する権利を留保します。変更後の規約はアプリ内で公開されます。お客様が本アプリを継続して使用することにより、変更後の規約に同意したものとみなされます。";
+"我们可能会不时更新本隐私政策。我们会通过应用内通知或更新日期的方式通知您任何重大变更。建议您定期查看本政策以了解最新信息。" = "当社は本プライバシーポリシーを随時更新することがあります。重要な変更がある場合は、アプリ内通知または更新日によってお知らせします。最新情報については定期的に本ポリシーをご確認ください。";
+"我们可能收集以下信息：\n\n1. 语音数据：当您使用语音翻译功能时，我们会录制并处理您的语音。\n\n2. 设备信息：我们收集设备类型、操作系统版本、唯一设备标识符等信息以优化应用性能。\n\n3. 使用数据：我们收集应用使用统计信息，以改进我们的服务。\n\n4. 翻译历史：如果您选择保存翻译历史，相关翻译记录将存储在您的设备上。" = "We may collect the following information:\\\\
+\\\\
+1. Voice Data: When using voice translation, we record and process your voice.\\\\
+\\\\
+2. Device Information: We collect device type, OS version, and unique device identifiers to optimize performance.\\\\
+\\\\
+3. Usage Data: We collect app usage statistics to improve our services.\\\\
+\\\\
+4. Translation History: If you choose to save translation history, records are stored on your device.";
+"我们收集语音数据用于翻译" = "We collect voice data for translation";
+"我们的服务不面向 13 岁以下的儿童。我们不会故意收集 13 岁以下儿童的个人信息。" = "Our service is not for children under 13. We do not knowingly collect information from children under 13.";
+"我们的服务不面向13岁以下的儿童。我们不会故意收集13岁以下儿童的个人信息。如果我们发现收集了13岁以下儿童的个人信息，我们将采取措施删除该信息。" = "当社のサービスは13歳未満の児童を対象としていません。当社は故意に13歳未満の児童の個人情報を収集することはありません。13歳未満の個人情報を収集したことが判明した場合、その情報を削除する措置を講じます。";
+"我们采取合理措施保护您的信息免受未经授权的访问、使用或披露。但请注意，互联网传输或电子存储方法并不完全安全，我们无法保证绝对安全。" = "当社はお客様の情報を不正アクセス、使用、開示から保護するために合理的な措置を講じています。ただし、インターネット転送や電子保存方法は完全に安全ではなく、絶対的な安全性を保証することはできません。";
+"所有文件下载完成" = "All files downloaded";
+"所有模型缓存已清除" = "All model caches cleared";
+"技术方案" = "技術仕様";
+"拍摄照片或从相册选择" = "Take a photo or choose from album";
+"拍照翻译" = "Photo Translate";
+"按住下方按钮开始说话" = "Hold the button below to speak";
+"按住说话" = "長押しして話す";
+"按需懒加载，不常驻内存" = "Lazy-loaded on demand, not memory-resident";
+"接受条款" = "利用規約の承諾";
+"推理" = "Inference";
+"推理加速" = "Inference Acceleration";
+"搜索翻译记录" = "Search translation history";
+"支持" = "Support";
+"支持 iOS 16+，可在系统「快捷指令」App 中管理" = "iOS 16+ supported. Manage in the Shortcuts app";
+"收藏" = "Favorites";
+"政策更新" = "ポリシーの更新";
+"数据安全" = "データセキュリティ";
+"数据管理" = "データ管理";
+"无效的下载地址" = "Invalid download URL";
+"暂无收藏内容" = "No favorites yet";
+"暂无翻译记录" = "翻訳記録はまだありません";
+"最后更新日期：2026年5月11日" = "最終更新日：2026年5月11日";
+"服务器错误" = "サーバーエラー";
+"服务描述" = "サービスの説明";
+"未下载" = "未ダウンロード";
+"未加载" = "未読込";
+"未安装" = "Not Installed";
+"未检测到文字" = "No text detected";
+"未检测到语音" = "No speech detected";
+"未检测到语音，请长按说话" = "音声が検出されません。長押しして話してください";
+"本应用及其所有内容、功能和特性（包括所有知识产权）均为我们或我们的许可方的财产。未经我们明确书面许可，您不得复制、修改、分发或创建衍生作品。" = "本アプリおよびそのすべてのコンテンツ、機能、特徴（すべての知的財産を含む）は、当社または当社のライセンサーの財産です。当社の明示的な書面による許可なく、複製、改変、配布、または二次的著作物を作成することはできません。";
+"本应用按\"原样\"和\"可用\"基础提供。我们不保证应用的不间断、及时、安全或无错误运行。对于因使用或无法使用本应用而导致的任何损失或损害，我们不承担任何责任。" = "This app is provided \\\"as is\\\" and \\\"as available\\\". We do not guarantee uninterrupted, timely, secure, or error-free operation. We are not liable for any loss or damage.";
+"本机免费离线使用，无需联网" = "端末で無料オフライン使用、ネット不要";
+"条款修改" = "規約の変更";
+"松手翻译" = "離して翻訳";
+"极快（设备端推理）" = "Extremely fast (on-device inference)";
+"查看完整隐私政策" = "完全なプライバシーポリシーを表示";
+"核心特性" = "主な機能";
+"根据适用法律，您可能拥有以下权利：\n\n1. 访问您的个人信息。\n\n2. 更正不准确的信息。\n\n3. 删除您的个人信息。\n\n4. 撤回同意。\n\n5. 数据可携带性。\n\n要行使这些权利，请通过以下联系方式与我们联系。" = "Under applicable law, you may have the following rights:\\\\
+\\\\
+1. Access your personal information.\\\\
+\\\\
+2. Correct inaccurate information.\\\\
+\\\\
+3. Delete your personal information.\\\\
+\\\\
+4. Withdraw consent.\\\\
+\\\\
+5. Data portability.\\\\
+\\\\
+To exercise these rights, please contact us using the information below.";
+"模型" = "Model";
+"模型 & 数据" = "Models & Data";
+"模型下载失败" = "Model Download Failed";
+"模型已就绪" = "Model Ready";
+"模型未加载" = "Model Not Loaded";
+"模型管理" = "モデル管理";
+"模型管理（WiFi 下载推荐）" = "モデル管理（WiFi DL推奨）";
+"模型详情" = "Model Details";
+"欢迎使用 VTM" = "VTMへようこそ";
+"正在下载" = "ダウンロード中";
+"正在聆听..." = "Listening...";
+"正在识别文字..." = "Recognizing text...";
+"法律信息" = "法律情報";
+"浅色模式" = "ライトモード";
+"深色模式" = "ダークモード";
+"清空" = "クリア";
+"清空历史" = "Clear History";
+"清除所有模型缓存" = "全モデルキャッシュをクリア";
+"清除缓存" = "キャッシュをクリア";
+"清除翻译历史" = "翻訳履歴をクリア";
+"源语言" = "ソース言語";
+"激活" = "アクティベーション";
+"激活 VTM" = "Activate VTM";
+"激活成功" = "アクティベーション成功";
+"激活状态" = "アクティベーション状態";
+"激活码" = "Activation Code";
+"激活码无效" = "無効なアクティベーションコード";
+"版本" = "Version";
+"版本 1.0.0 (Build 1)" = "Version 1.0.0 (Build 1)";
+"用 VTM 翻译" = "Translate with VTM";
+"用户责任" = "ユーザーの責任";
+"电话" = "Phone";
+"目标语言" = "ターゲット言語";
+"知识产权" = "知的財産";
+"确认" = "確認";
+"确认清空" = "Confirm Clear";
+"确认清除" = "Confirm Clear";
+"离线语音识别引擎" = "オフライン音声認識エンジン";
+"空闲" = "Idle";
+"立即激活" = "今すぐアクティベーション";
+"策略" = "Strategy";
+"管理语音识别和翻译模型" = "Manage speech recognition and translation models";
+"类型" = "Type";
+"精度" = "Accuracy";
+"翻译" = "翻訳";
+"翻译历史" = "翻訳履歴";
+"翻译历史已清空" = "Translation history cleared";
+"翻译后会自动保存在这里" = "Translations will be saved here automatically";
+"翻译后自动播放语音" = "翻訳後に音声を自動再生";
+"翻译失败" = "Translation Failed";
+"翻译将显示在这里" = "Translation will appear here";
+"翻译引擎释放内存后正在恢复\n请稍候片刻" = "Restoring translation engine after memory release\\\\
+Please wait";
+"翻译结果" = "Translation";
+"翻译设置" = "翻訳設定";
+"联系我们" = "お問い合わせ";
+"自动" = "自動";
+"自动播放翻译结果" = "Auto-playback of translations";
+"自动播放译文语音" = "Auto-play Translation";
+"自动检测源语言" = "ソース言語を自動検出";
+"自动检测源语言功能将在后续版本中推出" = "Auto-detect source language will be available in a future update";
+"范围" = "Scope";
+"蜂窝网络提醒" = "Cellular Data Warning";
+"要翻译的文本" = "Text to Translate";
+"角色" = "Role";
+"设备端模型" = "On-device Models";
+"设备端神经网络翻译" = "On-device neural network translation";
+"设备端翻译 ML Kit，利用设备算力进行本地翻译，速度极快且隐私安全。" = "On-device ML Kit translation. Fast, private, and secure.";
+"设置" = "設定";
+"识别中" = "認識中";
+"识别文字" = "Recognize Text";
+"识别结果" = "Recognition";
+"试用已到期" = "トライアル期限切れ";
+"试用状态" = "トライアル状態";
+"详情" = "Details";
+"语言" = "言語";
+"语言对" = "Language Pair";
+"语言更改" = "Language Changed";
+"语言更改将在下次启动应用时生效" = "Language change will take effect on next launch";
+"语言离线翻译后备引擎" = "Offline Translation Backup Engine";
+"语音合成" = "Speech Synthesis";
+"语音翻译" = "Voice Translation";
+"语音设置" = "Voice Settings";
+"语音识别" = "Speech Recognition";
+"语音识别权限" = "音声認識の許可";
+"语音识别模型未下载" = "音声認識モデルが未ダウンロード";
+"说话人 A" = "話者A";
+"说话人 B" = "話者B";
+"请输入 12 位激活码以获取永久使用权" = "12桁のコードを入力して永続利用権を取得";
+"请阅读并同意我们的隐私政策和使用条款以继续使用" = "Please read and agree to our Privacy Policy and Terms of Use";
+"请阅读并同意我们的隐私政策和使用条款以继续使用 VTM" = "Please read and agree to our Privacy Policy and Terms of Use to continue using VTM";
+"跟随系统" = "システムに従う";
+"较慢（CPU 推理，短句 ~3-10s）" = "Slower (CPU inference, ~3-10s for short texts)";
+"输入激活码" = "アクティベーションコードを入力";
+"选择文字区域" = "Select text region";
+"选择源语言" = "ソース言語を選択";
+"选择目标语言" = "ターゲット言語を選択";
+"通过使用 VTM 应用（以下简称\"应用\"），您同意受本使用条款的约束。如果您不同意本条款的任何部分，请勿使用本应用。" = "By using VTM (\\\"the App\\\"), you agree to these Terms. If you disagree, do not use the App.";
+"通过电话直接联系" = "Contact directly via phone";
+"速度" = "Speed";
+"邮箱：alexzhang@3dtiangong.com" = "Email: alexzhang@3dtiangong.com";
+"邮箱：legal@vtm-app.com" = "Email: legal@vtm-app.com";
+"邮箱：privacy@vtm-app.com" = "Email: privacy@vtm-app.com";
+"重新加载语音识别模型..." = "音声認識モデルを再読込中...";
+"重置" = "リセット";
+"重置引导" = "Reset Onboarding";
+"重置设置" = "設定をリセット";
+"重试" = "再試行";
+"错误" = "エラー";
+"长按翻译结果可收藏" = "Long-press translation to favorite";
+"隐私安全，数据不离开设备" = "プライバシー保護、データは端末外に出ません";
+"隐私政策" = "プライバシーポリシー";
+"隐私政策与使用条款" = "プライバシーポリシーと利用規約";
+"需要下载语音识别模型" = "音声認識モデルのダウンロードが必要";
+"需要翻译的文字内容" = "Text content to translate";
+"需要访问您的麦克风以录制语音进行翻译" = "Microphone access needed for voice translation";
+"需要语音识别功能来理解您说的话" = "Speech recognition needed to understand your speech";
+"项目介绍" = "プロジェクト紹介";
+"预下载" = "Pre-download";
+"预下载 zh↔en 模型" = "zh↔enモデルを事前DL";
+"预下载模型" = "Pre-download Model";
+"首次使用前自动下载" = "Auto-download before first use";
+"高精度，适合真实场景" = "High accuracy, suitable for real-world scenarios";
+"麦克风权限" = "マイクの許可";

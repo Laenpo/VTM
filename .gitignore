@@ -1,0 +1,27 @@
+# CocoaPods
+Pods/
+
+# Build artifacts
+build/
+DerivedData/
+*.xcarchive
+*.xcworkspace/xcuserdata/
+
+# Frameworks (downloaded separately)
+Frameworks/
+
+# whisper.cpp source (clone separately)
+whisper/
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+IDEWorkspaceChecks.plist
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Generated
+*.generated.swift
