@@ -20,6 +20,17 @@ No internet required for translation. All processing happens locally on your dev
 
 ---
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/1-onboarding.jpg" width="200" />
+  <img src="screenshots/3-home-idle.jpg" width="200" />
+  <img src="screenshots/4-recording.jpg" width="200" />
+  <img src="screenshots/5-result.jpg" width="200" />
+</div>
+
+---
+
 ## Architecture
 
 | Engine | Framework | License | Size |
@@ -31,6 +42,12 @@ No internet required for translation. All processing happens locally on your dev
 | Inference | Metal / Core ML | Built-in | — |
 
 **Smart memory management**: Whisper and NLLB never occupy memory simultaneously (~940 MB peak).
+
+---
+
+## User Guide
+
+📖 [Download PDF User Guide](VTM-User-Guide.pdf) (Chinese)
 
 ---
 
@@ -48,7 +65,7 @@ No internet required for translation. All processing happens locally on your dev
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VTM.git
+git clone https://github.com/Laenpo/VTM.git
 cd VTM
 ```
 
@@ -67,6 +84,7 @@ You need pre-built frameworks for Whisper.cpp and ONNX Runtime.
 
 ```bash
 # Build whisper.cpp for iOS
+git clone https://github.com/ggerganov/whisper.cpp.git whisper
 cd whisper
 ./build-ios-device.sh
 cp -r build-ios-device/whisper.xcframework ../Frameworks/
@@ -120,11 +138,11 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## License
 
-MIT © 2026 [三维天工 (3dtobe)](https://3dtobe.com)
+MIT © 2026 [Hengjun Zhang](https://github.com/Laenpo)
 
 ---
 
 ## Contact
 
+- GitHub: [@Laenpo](https://github.com/Laenpo)
 - Email: azhang364@gmail.com
-- Website: [3dtobe.com/VTM](https://3dtobe.com/VTM)
